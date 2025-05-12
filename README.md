@@ -1,4 +1,4 @@
-# Movie Recommendation System with AutoML
+# Movie Recommendation System 
 
 Este es un proyecto de analítica de datos que busca desarrollar un sistema de recomendación de películas para una plataforma online, utilizando técnicas de AutoML y pipelines de machine learning.
 
