@@ -1,0 +1,3051 @@
+userId,movieId,title
+1,1,Toy Story (1995)
+1,305,Ready to Wear (Pret-A-Porter) (1994)
+1,354,Cobb (1994)
+1,63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+1,42,Dead Presidents (1995)
+2,2,Jumanji (1995)
+2,421,Black Beauty (1994)
+2,478,Jimmy Hollywood (1994)
+2,433,Clean Slate (1994)
+2,653,Dragonheart (1996)
+3,3,Grumpier Old Men (1995)
+3,354,Cobb (1994)
+3,626,"Thin Line Between Love and Hate, A (1996)"
+3,615,Bread and Chocolate (Pane e cioccolata) (1973)
+3,353,"Crow, The (1994)"
+4,4,Waiting to Exhale (1995)
+4,449,Fear of a Black Hat (1994)
+4,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
+4,184,Nadja (1994)
+4,315,"Specialist, The (1994)"
+5,5,Father of the Bride Part II (1995)
+5,536,"Simple Twist of Fate, A (1994)"
+5,265,Like Water for Chocolate (Como agua para chocolate) (1992)
+5,685,It's My Party (1996)
+5,272,"Madness of King George, The (1994)"
+6,6,Heat (1995)
+6,141,"Birdcage, The (1996)"
+6,212,Bushwhacked (1995)
+6,64,Two if by Sea (1996)
+6,277,Miracle on 34th Street (1994)
+7,7,Sabrina (1995)
+7,276,Milk Money (1994)
+7,457,"Fugitive, The (1993)"
+7,255,"Jerky Boys, The (1995)"
+7,408,8 Seconds (1994)
+8,8,Tom and Huck (1995)
+8,434,Cliffhanger (1993)
+8,105,"Bridges of Madison County, The (1995)"
+8,594,Snow White and the Seven Dwarfs (1937)
+8,389,"Colonel Chabert, Le (1994)"
+9,9,Sudden Death (1995)
+9,589,Terminator 2: Judgment Day (1991)
+9,194,Smoke (1995)
+9,457,"Fugitive, The (1993)"
+9,85,Angels and Insects (1995)
+10,10,GoldenEye (1995)
+10,187,Party Girl (1995)
+10,170,Hackers (1995)
+10,679,"Run of the Country, The (1995)"
+10,208,Waterworld (1995)
+11,11,"American President, The (1995)"
+11,553,Tombstone (1993)
+11,207,"Walk in the Clouds, A (1995)"
+11,382,Wolf (1994)
+11,152,"Addiction, The (1995)"
+12,12,Dracula: Dead and Loving It (1995)
+12,715,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)"
+12,467,Live Nude Girls (1995)
+12,320,Suture (1993)
+12,112,Rumble in the Bronx (Hont faan kui) (1995)
+13,13,Balto (1995)
+13,340,"War, The (1994)"
+13,728,Cold Comfort Farm (1995)
+13,108,Catwalk (1996)
+13,85,Angels and Insects (1995)
+14,14,Nixon (1995)
+14,472,I'll Do Anything (1994)
+14,105,"Bridges of Madison County, The (1995)"
+14,594,Snow White and the Seven Dwarfs (1937)
+14,428,"Bronx Tale, A (1993)"
+15,15,Cutthroat Island (1995)
+15,284,New York Cop (Nyû Yôku no koppu) (1993)
+15,319,Shallow Grave (1994)
+15,496,What Happened Was... (1994)
+15,168,First Knight (1995)
+16,16,Casino (1995)
+16,17,Sense and Sensibility (1995)
+16,157,Canadian Bacon (1995)
+16,509,"Piano, The (1993)"
+16,390,Faster Pussycat! Kill! Kill! (1965)
+17,17,Sense and Sensibility (1995)
+17,16,Casino (1995)
+17,458,Geronimo: An American Legend (1993)
+17,496,What Happened Was... (1994)
+17,284,New York Cop (Nyû Yôku no koppu) (1993)
+18,18,Four Rooms (1995)
+18,284,New York Cop (Nyû Yôku no koppu) (1993)
+18,276,Milk Money (1994)
+18,346,Backbeat (1993)
+18,69,Friday (1995)
+19,19,Ace Ventura: When Nature Calls (1995)
+19,63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+19,252,I.Q. (1994)
+19,665,Underground (1995)
+19,535,Short Cuts (1993)
+20,20,Money Train (1995)
+20,199,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)"
+20,612,"Pallbearer, The (1996)"
+20,436,Color of Night (1994)
+20,600,Love and a .45 (1994)
+21,21,Get Shorty (1995)
+21,333,Tommy Boy (1995)
+21,541,Blade Runner (1982)
+21,287,Nina Takes a Lover (1994)
+21,628,Primal Fear (1996)
+22,22,Copycat (1995)
+22,496,What Happened Was... (1994)
+22,372,Reality Bites (1994)
+22,497,Much Ado About Nothing (1993)
+22,222,Circle of Friends (1995)
+23,23,Assassins (1995)
+23,16,Casino (1995)
+23,449,Fear of a Black Hat (1994)
+23,218,Boys on the Side (1995)
+23,444,Even Cowgirls Get the Blues (1993)
+24,24,Powder (1995)
+24,284,New York Cop (Nyû Yôku no koppu) (1993)
+24,57,Home for the Holidays (1995)
+24,674,Barbarella (1968)
+24,276,Milk Money (1994)
+25,25,Leaving Las Vegas (1995)
+25,220,Castle Freak (1995)
+25,242,Farinelli: il castrato (1994)
+25,468,"Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)"
+25,30,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)
+26,26,Othello (1995)
+26,152,"Addiction, The (1995)"
+26,279,My Family (1995)
+26,552,"Three Musketeers, The (1993)"
+26,62,Mr. Holland's Opus (1995)
+27,27,Now and Then (1995)
+27,63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+27,707,Mulholland Falls (1996)
+27,217,"Babysitter, The (1995)"
+27,234,Exit to Eden (1994)
+28,28,Persuasion (1995)
+28,276,Milk Money (1994)
+28,710,Celtic Pride (1996)
+28,496,What Happened Was... (1994)
+28,254,Jefferson in Paris (1995)
+29,29,"City of Lost Children, The (Cité des enfants perdus, La) (1995)"
+29,358,Higher Learning (1995)
+29,319,Shallow Grave (1994)
+29,70,From Dusk Till Dawn (1996)
+29,369,Mrs. Parker and the Vicious Circle (1994)
+30,30,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)
+30,468,"Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)"
+30,85,Angels and Insects (1995)
+30,650,Moll Flanders (1996)
+30,25,Leaving Las Vegas (1995)
+31,31,Dangerous Minds (1995)
+31,78,"Crossing Guard, The (1995)"
+31,611,Hellraiser: Bloodline (1996)
+31,310,Rent-a-Kid (1995)
+31,239,"Goofy Movie, A (1995)"
+32,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995)
+32,310,Rent-a-Kid (1995)
+32,355,"Flintstones, The (1994)"
+32,177,Lord of Illusions (1995)
+32,141,"Birdcage, The (1996)"
+33,34,Babe (1995)
+33,302,"Queen Margot (Reine Margot, La) (1994)"
+33,5,Father of the Bride Part II (1995)
+33,688,Operation Dumbo Drop (1995)
+33,64,Two if by Sea (1996)
+34,36,Dead Man Walking (1995)
+34,501,Naked (1993)
+34,408,8 Seconds (1994)
+34,155,Beyond Rangoon (1995)
+34,195,Something to Talk About (1995)
+35,38,It Takes Two (1995)
+35,491,"Man Without a Face, The (1993)"
+35,8,Tom and Huck (1995)
+35,522,Romper Stomper (1992)
+35,41,Richard III (1995)
+36,39,Clueless (1995)
+36,535,Short Cuts (1993)
+36,493,Menace II Society (1993)
+36,198,Strange Days (1995)
+36,228,Destiny Turns on the Radio (1995)
+37,40,"Cry, the Beloved Country (1995)"
+37,552,"Three Musketeers, The (1993)"
+37,382,Wolf (1994)
+37,156,Blue in the Face (1995)
+37,694,"Substitute, The (1996)"
+38,41,Richard III (1995)
+38,272,"Madness of King George, The (1994)"
+38,510,Poetic Justice (1993)
+38,688,Operation Dumbo Drop (1995)
+38,519,RoboCop 3 (1993)
+39,42,Dead Presidents (1995)
+39,267,Major Payne (1995)
+39,535,Short Cuts (1993)
+39,1,Toy Story (1995)
+39,568,Bhaji on the Beach (1993)
+40,43,Restoration (1995)
+40,472,I'll Do Anything (1994)
+40,41,Richard III (1995)
+40,141,"Birdcage, The (1996)"
+40,162,Crumb (1994)
+41,44,Mortal Kombat (1995)
+41,358,Higher Learning (1995)
+41,270,Love Affair (1994)
+41,342,Muriel's Wedding (1994)
+41,496,What Happened Was... (1994)
+42,45,To Die For (1995)
+42,48,Pocahontas (1995)
+42,423,Blown Away (1994)
+42,762,Striptease (1996)
+42,517,Rising Sun (1993)
+43,46,How to Make an American Quilt (1995)
+43,277,Miracle on 34th Street (1994)
+43,718,"Visitors, The (Visiteurs, Les) (1993)"
+43,536,"Simple Twist of Fate, A (1994)"
+43,141,"Birdcage, The (1996)"
+44,47,Seven (a.k.a. Se7en) (1995)
+44,393,Street Fighter (1994)
+44,564,Chasers (1994)
+44,379,Timecop (1994)
+44,446,Farewell My Concubine (Ba wang bie ji) (1993)
+45,48,Pocahontas (1995)
+45,371,"Paper, The (1994)"
+45,762,Striptease (1996)
+45,695,True Crime (1996)
+45,517,Rising Sun (1993)
+46,49,When Night Is Falling (1995)
+46,534,Shadowlands (1993)
+46,279,My Family (1995)
+46,152,"Addiction, The (1995)"
+46,172,Johnny Mnemonic (1995)
+47,50,"Usual Suspects, The (1995)"
+47,187,Party Girl (1995)
+47,526,"Savage Nights (Nuits fauves, Les) (1992)"
+47,569,Little Big League (1994)
+47,208,Waterworld (1995)
+48,52,Mighty Aphrodite (1995)
+48,344,Ace Ventura: Pet Detective (1994)
+48,695,True Crime (1996)
+48,276,Milk Money (1994)
+48,606,Candyman: Farewell to the Flesh (1995)
+49,53,Lamerica (1994)
+49,502,"Next Karate Kid, The (1994)"
+49,360,I Love Trouble (1994)
+49,337,What's Eating Gilbert Grape (1993)
+49,711,Flipper (1996)
+50,54,"Big Green, The (1995)"
+50,369,Mrs. Parker and the Vicious Circle (1994)
+50,284,New York Cop (Nyû Yôku no koppu) (1993)
+50,496,What Happened Was... (1994)
+50,270,Love Affair (1994)
+51,55,Georgia (1995)
+51,329,Star Trek: Generations (1994)
+51,762,Striptease (1996)
+51,71,Fair Game (1995)
+51,726,Last Dance (1996)
+52,57,Home for the Holidays (1995)
+52,284,New York Cop (Nyû Yôku no koppu) (1993)
+52,246,Hoop Dreams (1994)
+52,319,Shallow Grave (1994)
+52,372,Reality Bites (1994)
+53,58,"Postman, The (Postino, Il) (1994)"
+53,318,"Shawshank Redemption, The (1994)"
+53,203,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)"
+53,424,Blue Chips (1994)
+53,251,"Hunted, The (1995)"
+54,60,"Indian in the Cupboard, The (1995)"
+54,152,"Addiction, The (1995)"
+54,89,Nick of Time (1995)
+54,105,"Bridges of Madison County, The (1995)"
+54,594,Snow White and the Seven Dwarfs (1937)
+55,61,Eye for an Eye (1996)
+55,662,Fear (1996)
+55,719,Multiplicity (1996)
+55,254,Jefferson in Paris (1995)
+55,246,Hoop Dreams (1994)
+56,62,Mr. Holland's Opus (1995)
+56,105,"Bridges of Madison County, The (1995)"
+56,152,"Addiction, The (1995)"
+56,210,Wild Bill (1995)
+56,434,Cliffhanger (1993)
+57,63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+57,535,Short Cuts (1993)
+57,726,Last Dance (1996)
+57,235,Ed Wood (1994)
+57,741,Ghost in the Shell (Kôkaku kidôtai) (1995)
+58,64,Two if by Sea (1996)
+58,141,"Birdcage, The (1996)"
+58,510,Poetic Justice (1993)
+58,688,Operation Dumbo Drop (1995)
+58,41,Richard III (1995)
+59,65,Bio-Dome (1996)
+59,163,Desperado (1995)
+59,531,"Secret Garden, The (1993)"
+59,698,Delta of Venus (1995)
+59,535,Short Cuts (1993)
+60,66,Lawnmower Man 2: Beyond Cyberspace (1996)
+60,380,True Lies (1994)
+60,179,Mad Love (1995)
+60,538,Six Degrees of Separation (1993)
+60,390,Faster Pussycat! Kill! Kill! (1965)
+61,68,French Twist (Gazon maudit) (1995)
+61,157,Canadian Bacon (1995)
+61,595,Beauty and the Beast (1991)
+61,292,Outbreak (1995)
+61,371,"Paper, The (1994)"
+62,69,Friday (1995)
+62,284,New York Cop (Nyû Yôku no koppu) (1993)
+62,287,Nina Takes a Lover (1994)
+62,18,Four Rooms (1995)
+62,541,Blade Runner (1982)
+63,70,From Dusk Till Dawn (1996)
+63,496,What Happened Was... (1994)
+63,700,Angus (1995)
+63,284,New York Cop (Nyû Yôku no koppu) (1993)
+63,369,Mrs. Parker and the Vicious Circle (1994)
+64,71,Fair Game (1995)
+64,547,Surviving the Game (1994)
+64,762,Striptease (1996)
+64,261,Little Women (1994)
+64,371,"Paper, The (1994)"
+65,72,Kicking and Screaming (1995)
+65,433,Clean Slate (1994)
+65,421,Black Beauty (1994)
+65,597,Pretty Woman (1990)
+65,711,Flipper (1996)
+66,73,"Misérables, Les (1995)"
+66,371,"Paper, The (1994)"
+66,547,Surviving the Game (1994)
+66,102,Mr. Wrong (1996)
+66,71,Fair Game (1995)
+67,74,Bed of Roses (1996)
+67,650,Moll Flanders (1996)
+67,242,Farinelli: il castrato (1994)
+67,457,"Fugitive, The (1993)"
+67,468,"Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)"
+68,75,Big Bully (1996)
+68,475,In the Name of the Father (1993)
+68,762,Striptease (1996)
+68,547,Surviving the Game (1994)
+68,208,Waterworld (1995)
+69,76,Screamers (1995)
+69,377,Speed (1994)
+69,458,Geronimo: An American Legend (1993)
+69,230,Dolores Claiborne (1995)
+69,79,"Juror, The (1996)"
+70,77,Nico Icon (1995)
+70,726,Last Dance (1996)
+70,341,Double Happiness (1994)
+70,707,Mulholland Falls (1996)
+70,725,"Great White Hype, The (1996)"
+71,78,"Crossing Guard, The (1995)"
+71,419,"Beverly Hillbillies, The (1993)"
+71,446,Farewell My Concubine (Ba wang bie ji) (1993)
+71,393,Street Fighter (1994)
+71,617,"Flower of My Secret, The (La flor de mi secreto) (1995)"
+72,79,"Juror, The (1996)"
+72,159,Clockers (1995)
+72,685,It's My Party (1996)
+72,594,Snow White and the Seven Dwarfs (1937)
+72,17,Sense and Sensibility (1995)
+73,80,"White Balloon, The (Badkonake sefid) (1995)"
+73,287,Nina Takes a Lover (1994)
+73,612,"Pallbearer, The (1996)"
+73,69,Friday (1995)
+73,247,Heavenly Creatures (1994)
+74,81,Things to Do in Denver When You're Dead (1995)
+74,388,Boys Life (1995)
+74,444,Even Cowgirls Get the Blues (1993)
+74,540,Sliver (1993)
+74,198,Strange Days (1995)
+75,82,Antonia's Line (Antonia) (1995)
+75,267,Major Payne (1995)
+75,568,Bhaji on the Beach (1993)
+75,502,"Next Karate Kid, The (1994)"
+75,468,"Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)"
+76,83,Once Upon a Time... When We Were Colored (1995)
+76,478,Jimmy Hollywood (1994)
+76,157,Canadian Bacon (1995)
+76,496,What Happened Was... (1994)
+76,17,Sense and Sensibility (1995)
+77,85,Angels and Insects (1995)
+77,457,"Fugitive, The (1993)"
+77,30,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)
+77,468,"Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)"
+77,220,Castle Freak (1995)
+78,86,White Squall (1996)
+78,267,Major Payne (1995)
+78,79,"Juror, The (1996)"
+78,255,"Jerky Boys, The (1995)"
+78,89,Nick of Time (1995)
+79,87,Dunston Checks In (1996)
+79,568,Bhaji on the Beach (1993)
+79,567,Kika (1993)
+79,214,Before the Rain (Pred dozhdot) (1994)
+79,305,Ready to Wear (Pret-A-Porter) (1994)
+80,88,Black Sheep (1996)
+80,700,Angus (1995)
+80,451,Flesh and Bone (1993)
+80,276,Milk Money (1994)
+80,494,Executive Decision (1996)
+81,89,Nick of Time (1995)
+81,105,"Bridges of Madison County, The (1995)"
+81,152,"Addiction, The (1995)"
+81,382,Wolf (1994)
+81,553,Tombstone (1993)
+82,92,Mary Reilly (1996)
+82,501,Naked (1993)
+82,762,Striptease (1996)
+82,700,Angus (1995)
+82,487,Lightning Jack (1994)
+83,93,Vampire in Brooklyn (1995)
+83,496,What Happened Was... (1994)
+83,284,New York Cop (Nyû Yôku no koppu) (1993)
+83,711,Flipper (1996)
+83,478,Jimmy Hollywood (1994)
+84,94,Beautiful Girls (1996)
+84,500,Mrs. Doubtfire (1993)
+84,427,Boxing Helena (1993)
+84,441,Dazed and Confused (1993)
+84,272,"Madness of King George, The (1994)"
+85,95,Broken Arrow (1996)
+85,533,"Shadow, The (1994)"
+85,34,Babe (1995)
+85,318,"Shawshank Redemption, The (1994)"
+85,415,Another Stakeout (1993)
+86,96,In the Bleak Midwinter (1995)
+86,457,"Fugitive, The (1993)"
+86,85,Angels and Insects (1995)
+86,468,"Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)"
+86,258,"Kid in King Arthur's Court, A (1995)"
+87,97,"Hate (Haine, La) (1995)"
+87,456,Fresh (1994)
+87,745,Wallace & Gromit: A Close Shave (1995)
+87,509,"Piano, The (1993)"
+87,328,Tales from the Crypt Presents: Demon Knight (1995)
+88,99,Heidi Fleiss: Hollywood Madam (1995)
+88,284,New York Cop (Nyû Yôku no koppu) (1993)
+88,433,Clean Slate (1994)
+88,220,Castle Freak (1995)
+88,496,What Happened Was... (1994)
+89,100,City Hall (1996)
+89,680,"Alphaville (Alphaville, une étrange aventure de Lemmy Caution) (1965)"
+89,128,Jupiter's Wife (1994)
+89,287,Nina Takes a Lover (1994)
+89,208,Waterworld (1995)
+90,101,Bottle Rocket (1996)
+90,310,Rent-a-Kid (1995)
+90,239,"Goofy Movie, A (1995)"
+90,177,Lord of Illusions (1995)
+90,608,Fargo (1996)
+91,102,Mr. Wrong (1996)
+91,371,"Paper, The (1994)"
+91,695,True Crime (1996)
+91,762,Striptease (1996)
+91,726,Last Dance (1996)
+92,103,Unforgettable (1996)
+92,186,Nine Months (1995)
+92,173,Judge Dredd (1995)
+92,321,Strawberry and Chocolate (Fresa y chocolate) (1993)
+92,551,"Nightmare Before Christmas, The (1993)"
+93,104,Happy Gilmore (1996)
+93,345,"Adventures of Priscilla, Queen of the Desert, The (1994)"
+93,536,"Simple Twist of Fate, A (1994)"
+93,234,Exit to Eden (1994)
+93,434,Cliffhanger (1993)
+94,105,"Bridges of Madison County, The (1995)"
+94,89,Nick of Time (1995)
+94,152,"Addiction, The (1995)"
+94,594,Snow White and the Seven Dwarfs (1937)
+94,536,"Simple Twist of Fate, A (1994)"
+95,106,Nobody Loves Me (Keiner liebt mich) (1994)
+95,344,Ace Ventura: Pet Detective (1994)
+95,710,Celtic Pride (1996)
+95,496,What Happened Was... (1994)
+95,353,"Crow, The (1994)"
+96,107,Muppet Treasure Island (1996)
+96,568,Bhaji on the Beach (1993)
+96,695,True Crime (1996)
+96,214,Before the Rain (Pred dozhdot) (1994)
+96,267,Major Payne (1995)
+97,108,Catwalk (1996)
+97,457,"Fugitive, The (1993)"
+97,85,Angels and Insects (1995)
+97,13,Balto (1995)
+97,96,In the Bleak Midwinter (1995)
+98,110,Braveheart (1995)
+98,747,"Stupids, The (1996)"
+98,284,New York Cop (Nyû Yôku no koppu) (1993)
+98,478,Jimmy Hollywood (1994)
+98,458,Geronimo: An American Legend (1993)
+99,111,Taxi Driver (1976)
+99,156,Blue in the Face (1995)
+99,407,In the Mouth of Madness (1995)
+99,162,Crumb (1994)
+99,491,"Man Without a Face, The (1993)"
+100,112,Rumble in the Bronx (Hont faan kui) (1995)
+100,412,"Age of Innocence, The (1993)"
+100,371,"Paper, The (1994)"
+100,48,Pocahontas (1995)
+100,741,Ghost in the Shell (Kôkaku kidôtai) (1995)
+101,113,Before and After (1996)
+101,728,Cold Comfort Farm (1995)
+101,450,With Honors (1994)
+101,384,Bad Company (1995)
+101,631,All Dogs Go to Heaven 2 (1996)
+102,116,Anne Frank Remembered (1995)
+102,594,Snow White and the Seven Dwarfs (1937)
+102,152,"Addiction, The (1995)"
+102,718,"Visitors, The (Visiteurs, Les) (1993)"
+102,105,"Bridges of Madison County, The (1995)"
+103,117,"Young Poisoner's Handbook, The (1995)"
+103,369,Mrs. Parker and the Vicious Circle (1994)
+103,284,New York Cop (Nyû Yôku no koppu) (1993)
+103,726,Last Dance (1996)
+103,496,What Happened Was... (1994)
+104,118,If Lucy Fell (1996)
+104,612,"Pallbearer, The (1996)"
+104,208,Waterworld (1995)
+104,558,"Pagemaster, The (1994)"
+104,436,Color of Night (1994)
+105,119,"Steal Big, Steal Little (1995)"
+105,381,When a Man Loves a Woman (1994)
+105,346,Backbeat (1993)
+105,69,Friday (1995)
+105,339,While You Were Sleeping (1995)
+106,121,"Boys of St. Vincent, The (1992)"
+106,332,Village of the Damned (1995)
+106,532,Serial Mom (1994)
+106,667,Bloodsport 2 (a.k.a. Bloodsport II: The Next Kumite) (1996)
+106,541,Blade Runner (1982)
+107,122,Boomerang (1992)
+107,156,Blue in the Face (1995)
+107,534,Shadowlands (1993)
+107,105,"Bridges of Madison County, The (1995)"
+107,279,My Family (1995)
+108,123,Chungking Express (Chung Hing sam lam) (1994)
+108,408,8 Seconds (1994)
+108,558,"Pagemaster, The (1994)"
+108,194,Smoke (1995)
+108,327,Tank Girl (1995)
+109,125,Flirting With Disaster (1996)
+109,748,"Arrival, The (1996)"
+109,272,"Madness of King George, The (1994)"
+109,141,"Birdcage, The (1996)"
+109,472,I'll Do Anything (1994)
+110,126,"NeverEnding Story III, The (1994)"
+110,16,Casino (1995)
+110,289,Only You (1994)
+110,509,"Piano, The (1993)"
+110,157,Canadian Bacon (1995)
+111,128,Jupiter's Wife (1994)
+111,420,Beverly Hills Cop III (1994)
+111,287,Nina Takes a Lover (1994)
+111,680,"Alphaville (Alphaville, une étrange aventure de Lemmy Caution) (1965)"
+111,75,Big Bully (1996)
+112,129,Pie in the Sky (1996)
+112,30,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)
+112,457,"Fugitive, The (1993)"
+112,25,Leaving Las Vegas (1995)
+112,458,Geronimo: An American Legend (1993)
+113,132,Jade (1995)
+113,698,Delta of Venus (1995)
+113,94,Beautiful Girls (1996)
+113,184,Nadja (1994)
+113,65,Bio-Dome (1996)
+114,135,Down Periscope (1996)
+114,332,Village of the Damned (1995)
+114,175,Kids (1995)
+114,238,Far From Home: The Adventures of Yellow Dog (1995)
+114,541,Blade Runner (1982)
+115,137,Man of the Year (1995)
+115,63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+115,161,Crimson Tide (1995)
+115,517,Rising Sun (1993)
+115,371,"Paper, The (1994)"
+116,140,Up Close and Personal (1996)
+116,695,True Crime (1996)
+116,171,Jeffrey (1995)
+116,434,Cliffhanger (1993)
+116,618,Two Much (1995)
+117,141,"Birdcage, The (1996)"
+117,64,Two if by Sea (1996)
+117,510,Poetic Justice (1993)
+117,536,"Simple Twist of Fate, A (1994)"
+117,472,I'll Do Anything (1994)
+118,144,"Brothers McMullen, The (1995)"
+118,390,Faster Pussycat! Kill! Kill! (1965)
+118,157,Canadian Bacon (1995)
+118,79,"Juror, The (1996)"
+118,626,"Thin Line Between Love and Hate, A (1996)"
+119,145,Bad Boys (1995)
+119,284,New York Cop (Nyû Yôku no koppu) (1993)
+119,270,Love Affair (1994)
+119,287,Nina Takes a Lover (1994)
+119,532,Serial Mom (1994)
+120,146,"Amazing Panda Adventure, The (1995)"
+120,393,Street Fighter (1994)
+120,419,"Beverly Hillbillies, The (1993)"
+120,617,"Flower of My Secret, The (La flor de mi secreto) (1995)"
+120,177,Lord of Illusions (1995)
+121,147,"Basketball Diaries, The (1995)"
+121,519,RoboCop 3 (1993)
+121,272,"Madness of King George, The (1994)"
+121,510,Poetic Justice (1993)
+121,265,Like Water for Chocolate (Como agua para chocolate) (1992)
+122,148,"Awfully Big Adventure, An (1995)"
+122,339,While You Were Sleeping (1995)
+122,496,What Happened Was... (1994)
+122,371,"Paper, The (1994)"
+122,700,Angus (1995)
+123,149,Amateur (1994)
+123,714,Dead Man (1995)
+123,468,"Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)"
+123,284,New York Cop (Nyû Yôku no koppu) (1993)
+123,319,Shallow Grave (1994)
+124,150,Apollo 13 (1995)
+124,17,Sense and Sensibility (1995)
+124,292,Outbreak (1995)
+124,507,"Perfect World, A (1993)"
+124,79,"Juror, The (1996)"
+125,151,Rob Roy (1995)
+125,287,Nina Takes a Lover (1994)
+125,69,Friday (1995)
+125,339,While You Were Sleeping (1995)
+125,247,Heavenly Creatures (1994)
+126,152,"Addiction, The (1995)"
+126,434,Cliffhanger (1993)
+126,105,"Bridges of Madison County, The (1995)"
+126,588,Aladdin (1992)
+126,594,Snow White and the Seven Dwarfs (1937)
+127,153,Batman Forever (1995)
+127,219,"Cure, The (1995)"
+127,454,"Firm, The (1993)"
+127,473,In the Army Now (1994)
+127,602,"Great Day in Harlem, A (1994)"
+128,154,Beauty of the Day (Belle de jour) (1967)
+128,568,Bhaji on the Beach (1993)
+128,163,Desperado (1995)
+128,267,Major Payne (1995)
+128,63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+129,155,Beyond Rangoon (1995)
+129,276,Milk Money (1994)
+129,496,What Happened Was... (1994)
+129,254,Jefferson in Paris (1995)
+129,266,Legends of the Fall (1994)
+130,156,Blue in the Face (1995)
+130,703,Boys (1996)
+130,534,Shadowlands (1993)
+130,172,Johnny Mnemonic (1995)
+130,279,My Family (1995)
+131,157,Canadian Bacon (1995)
+131,458,Geronimo: An American Legend (1993)
+131,16,Casino (1995)
+131,385,"Man of No Importance, A (1994)"
+131,17,Sense and Sensibility (1995)
+132,158,Casper (1995)
+132,558,"Pagemaster, The (1994)"
+132,371,"Paper, The (1994)"
+132,233,Exotica (1994)
+132,71,Fair Game (1995)
+133,159,Clockers (1995)
+133,594,Snow White and the Seven Dwarfs (1937)
+133,685,It's My Party (1996)
+133,152,"Addiction, The (1995)"
+133,434,Cliffhanger (1993)
+134,160,Congo (1995)
+134,49,When Night Is Falling (1995)
+134,594,Snow White and the Seven Dwarfs (1937)
+134,152,"Addiction, The (1995)"
+134,534,Shadowlands (1993)
+135,161,Crimson Tide (1995)
+135,695,True Crime (1996)
+135,371,"Paper, The (1994)"
+135,516,Renaissance Man (1994)
+135,305,Ready to Wear (Pret-A-Porter) (1994)
+136,162,Crumb (1994)
+136,718,"Visitors, The (Visiteurs, Les) (1993)"
+136,407,In the Mouth of Madness (1995)
+136,277,Miracle on 34th Street (1994)
+136,325,National Lampoon's Senior Trip (1995)
+137,163,Desperado (1995)
+137,698,Delta of Venus (1995)
+137,726,Last Dance (1996)
+137,331,Tom & Viv (1994)
+137,65,Bio-Dome (1996)
+138,164,Devil in a Blue Dress (1995)
+138,251,"Hunted, The (1995)"
+138,567,Kika (1993)
+138,430,Calendar Girl (1993)
+138,188,"Prophecy, The (1995)"
+139,165,Die Hard: With a Vengeance (1995)
+139,451,Flesh and Bone (1993)
+139,541,Blade Runner (1982)
+139,714,Dead Man (1995)
+139,532,Serial Mom (1994)
+140,166,"Doom Generation, The (1995)"
+140,726,Last Dance (1996)
+140,547,Surviving the Game (1994)
+140,276,Milk Money (1994)
+140,475,In the Name of the Father (1993)
+141,168,First Knight (1995)
+141,284,New York Cop (Nyû Yôku no koppu) (1993)
+141,496,What Happened Was... (1994)
+141,255,"Jerky Boys, The (1995)"
+141,700,Angus (1995)
+142,169,Free Willy 2: The Adventure Home (1995)
+142,152,"Addiction, The (1995)"
+142,594,Snow White and the Seven Dwarfs (1937)
+142,685,It's My Party (1996)
+142,105,"Bridges of Madison County, The (1995)"
+143,170,Hackers (1995)
+143,10,GoldenEye (1995)
+143,187,Party Girl (1995)
+143,715,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)"
+143,679,"Run of the Country, The (1995)"
+144,171,Jeffrey (1995)
+144,695,True Crime (1996)
+144,327,Tank Girl (1995)
+144,496,What Happened Was... (1994)
+144,389,"Colonel Chabert, Le (1994)"
+145,172,Johnny Mnemonic (1995)
+145,156,Blue in the Face (1995)
+145,534,Shadowlands (1993)
+145,703,Boys (1996)
+145,49,When Night Is Falling (1995)
+146,173,Judge Dredd (1995)
+146,103,Unforgettable (1996)
+146,430,Calendar Girl (1993)
+146,146,"Amazing Panda Adventure, The (1995)"
+146,387,"Low Down Dirty Shame, A (1994)"
+147,174,Jury Duty (1995)
+147,493,Menace II Society (1993)
+147,227,Drop Zone (1994)
+147,377,Speed (1994)
+147,147,"Basketball Diaries, The (1995)"
+148,175,Kids (1995)
+148,332,Village of the Damned (1995)
+148,181,Mighty Morphin Power Rangers: The Movie (1995)
+148,714,Dead Man (1995)
+148,135,Down Periscope (1996)
+149,176,Living in Oblivion (1995)
+149,344,Ace Ventura: Pet Detective (1994)
+149,217,"Babysitter, The (1995)"
+149,611,Hellraiser: Bloodline (1996)
+149,304,Roommates (1995)
+150,177,Lord of Illusions (1995)
+150,310,Rent-a-Kid (1995)
+150,446,Farewell My Concubine (Ba wang bie ji) (1993)
+150,515,"Remains of the Day, The (1993)"
+150,239,"Goofy Movie, A (1995)"
+151,178,Love & Human Remains (1993)
+151,564,Chasers (1994)
+151,617,"Flower of My Secret, The (La flor de mi secreto) (1995)"
+151,520,Robin Hood: Men in Tights (1993)
+151,249,Immortal Beloved (1994)
+152,179,Mad Love (1995)
+152,476,"Inkwell, The (1994)"
+152,574,Spanking the Monkey (1994)
+152,157,Canadian Bacon (1995)
+152,358,Higher Learning (1995)
+153,180,Mallrats (1995)
+153,44,Mortal Kombat (1995)
+153,613,Jane Eyre (1996)
+153,478,Jimmy Hollywood (1994)
+153,278,Miami Rhapsody (1995)
+154,181,Mighty Morphin Power Rangers: The Movie (1995)
+154,175,Kids (1995)
+154,332,Village of the Damned (1995)
+154,653,Dragonheart (1996)
+154,714,Dead Man (1995)
+155,183,Mute Witness (1994)
+155,137,Man of the Year (1995)
+155,728,Cold Comfort Farm (1995)
+155,517,Rising Sun (1993)
+155,161,Crimson Tide (1995)
+156,184,Nadja (1994)
+156,315,"Specialist, The (1994)"
+156,535,Short Cuts (1993)
+156,449,Fear of a Black Hat (1994)
+156,741,Ghost in the Shell (Kôkaku kidôtai) (1995)
+157,185,"Net, The (1995)"
+157,384,Bad Company (1995)
+157,113,Before and After (1996)
+157,450,With Honors (1994)
+157,225,Disclosure (1994)
+158,186,Nine Months (1995)
+158,706,Sunset Park (1996)
+158,103,Unforgettable (1996)
+158,273,Mary Shelley's Frankenstein (Frankenstein) (1994)
+158,504,No Escape (1994)
+159,187,Party Girl (1995)
+159,563,Germinal (1993)
+159,488,M. Butterfly (1993)
+159,10,GoldenEye (1995)
+159,50,"Usual Suspects, The (1995)"
+160,188,"Prophecy, The (1995)"
+160,371,"Paper, The (1994)"
+160,354,Cobb (1994)
+160,102,Mr. Wrong (1996)
+160,695,True Crime (1996)
+161,189,Reckless (1995)
+161,454,"Firm, The (1993)"
+161,196,Species (1995)
+161,556,"War Room, The (1993)"
+161,351,"Corrina, Corrina (1994)"
+162,190,Safe (1995)
+162,141,"Birdcage, The (1996)"
+162,464,Hard Target (1993)
+162,500,Mrs. Doubtfire (1993)
+162,519,RoboCop 3 (1993)
+163,191,"Scarlet Letter, The (1995)"
+163,415,Another Stakeout (1993)
+163,548,Terminal Velocity (1994)
+163,345,"Adventures of Priscilla, Queen of the Desert, The (1994)"
+163,11,"American President, The (1995)"
+164,193,Showgirls (1995)
+164,568,Bhaji on the Beach (1993)
+164,344,Ace Ventura: Pet Detective (1994)
+164,567,Kika (1993)
+164,306,Three Colors: Red (Trois couleurs: Rouge) (1994)
+165,194,Smoke (1995)
+165,568,Bhaji on the Beach (1993)
+165,567,Kika (1993)
+165,457,"Fugitive, The (1993)"
+165,87,Dunston Checks In (1996)
+166,195,Something to Talk About (1995)
+166,496,What Happened Was... (1994)
+166,276,Milk Money (1994)
+166,292,Outbreak (1995)
+166,284,New York Cop (Nyû Yôku no koppu) (1993)
+167,196,Species (1995)
+167,371,"Paper, The (1994)"
+167,255,"Jerky Boys, The (1995)"
+167,276,Milk Money (1994)
+167,496,What Happened Was... (1994)
+168,198,Strange Days (1995)
+168,256,Junior (1994)
+168,16,Casino (1995)
+168,163,Desperado (1995)
+168,535,Short Cuts (1993)
+169,199,"Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les) (1964)"
+169,48,Pocahontas (1995)
+169,436,Color of Night (1994)
+169,233,Exotica (1994)
+169,412,"Age of Innocence, The (1993)"
+170,201,Three Wishes (1995)
+170,434,Cliffhanger (1993)
+170,105,"Bridges of Madison County, The (1995)"
+170,522,Romper Stomper (1992)
+170,519,RoboCop 3 (1993)
+171,202,Total Eclipse (1995)
+171,427,Boxing Helena (1993)
+171,441,Dazed and Confused (1993)
+171,371,"Paper, The (1994)"
+171,32,Twelve Monkeys (a.k.a. 12 Monkeys) (1995)
+172,203,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)"
+172,457,"Fugitive, The (1993)"
+172,220,Castle Freak (1995)
+172,728,Cold Comfort Farm (1995)
+172,163,Desperado (1995)
+173,204,Under Siege 2: Dark Territory (1995)
+173,536,"Simple Twist of Fate, A (1994)"
+173,105,"Bridges of Madison County, The (1995)"
+173,510,Poetic Justice (1993)
+173,389,"Colonel Chabert, Le (1994)"
+174,205,Unstrung Heroes (1995)
+174,718,"Visitors, The (Visiteurs, Les) (1993)"
+174,510,Poetic Justice (1993)
+174,389,"Colonel Chabert, Le (1994)"
+174,594,Snow White and the Seven Dwarfs (1937)
+175,206,Unzipped (1995)
+175,170,Hackers (1995)
+175,97,"Hate (Haine, La) (1995)"
+175,679,"Run of the Country, The (1995)"
+175,467,Live Nude Girls (1995)
+176,207,"Walk in the Clouds, A (1995)"
+176,152,"Addiction, The (1995)"
+176,552,"Three Musketeers, The (1993)"
+176,89,Nick of Time (1995)
+176,382,Wolf (1994)
+177,208,Waterworld (1995)
+177,75,Big Bully (1996)
+177,612,"Pallbearer, The (1996)"
+177,726,Last Dance (1996)
+177,436,Color of Night (1994)
+178,209,White Man's Burden (1995)
+178,292,Outbreak (1995)
+178,79,"Juror, The (1996)"
+178,502,"Next Karate Kid, The (1994)"
+178,425,Blue Sky (1994)
+179,210,Wild Bill (1995)
+179,152,"Addiction, The (1995)"
+179,536,"Simple Twist of Fate, A (1994)"
+179,105,"Bridges of Madison County, The (1995)"
+179,434,Cliffhanger (1993)
+180,211,"Browning Version, The (1994)"
+180,458,Geronimo: An American Legend (1993)
+180,468,"Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)"
+180,457,"Fugitive, The (1993)"
+180,85,Angels and Insects (1995)
+181,212,Bushwhacked (1995)
+181,6,Heat (1995)
+181,731,Heaven's Prisoners (1996)
+181,205,Unstrung Heroes (1995)
+181,472,I'll Do Anything (1994)
+182,213,Burnt by the Sun (Utomlyonnye solntsem) (1994)
+182,762,Striptease (1996)
+182,475,In the Name of the Father (1993)
+182,547,Surviving the Game (1994)
+182,71,Fair Game (1995)
+183,214,Before the Rain (Pred dozhdot) (1994)
+183,568,Bhaji on the Beach (1993)
+183,626,"Thin Line Between Love and Hate, A (1996)"
+183,87,Dunston Checks In (1996)
+183,107,Muppet Treasure Island (1996)
+184,215,Before Sunrise (1995)
+184,597,Pretty Woman (1990)
+184,181,Mighty Morphin Power Rangers: The Movie (1995)
+184,653,Dragonheart (1996)
+184,691,Mrs. Winterbourne (1996)
+185,216,Billy Madison (1995)
+185,284,New York Cop (Nyû Yôku no koppu) (1993)
+185,20,Money Train (1995)
+185,302,"Queen Margot (Reine Margot, La) (1994)"
+185,158,Casper (1995)
+186,217,"Babysitter, The (1995)"
+186,354,Cobb (1994)
+186,726,Last Dance (1996)
+186,63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+186,176,Living in Oblivion (1995)
+187,218,Boys on the Side (1995)
+187,496,What Happened Was... (1994)
+187,710,Celtic Pride (1996)
+187,371,"Paper, The (1994)"
+187,16,Casino (1995)
+188,219,"Cure, The (1995)"
+188,663,Kids in the Hall: Brain Candy (1996)
+188,600,Love and a .45 (1994)
+188,153,Batman Forever (1995)
+188,331,Tom & Viv (1994)
+189,220,Castle Freak (1995)
+189,433,Clean Slate (1994)
+189,242,Farinelli: il castrato (1994)
+189,468,"Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)"
+189,25,Leaving Las Vegas (1995)
+190,222,Circle of Friends (1995)
+190,711,Flipper (1996)
+190,284,New York Cop (Nyû Yôku no koppu) (1993)
+190,341,Double Happiness (1994)
+190,747,"Stupids, The (1996)"
+191,223,Clerks (1994)
+191,748,"Arrival, The (1996)"
+191,43,Restoration (1995)
+191,125,Flirting With Disaster (1996)
+191,510,Poetic Justice (1993)
+192,224,Don Juan DeMarco (1995)
+192,552,"Three Musketeers, The (1993)"
+192,26,Othello (1995)
+192,62,Mr. Holland's Opus (1995)
+192,434,Cliffhanger (1993)
+193,225,Disclosure (1994)
+193,458,Geronimo: An American Legend (1993)
+193,17,Sense and Sensibility (1995)
+193,284,New York Cop (Nyû Yôku no koppu) (1993)
+193,457,"Fugitive, The (1993)"
+194,227,Drop Zone (1994)
+194,174,Jury Duty (1995)
+194,295,"Pyromaniac's Love Story, A (1995)"
+194,253,Interview with the Vampire: The Vampire Chronicles (1994)
+194,423,Blown Away (1994)
+195,228,Destiny Turns on the Radio (1995)
+195,517,Rising Sun (1993)
+195,449,Fear of a Black Hat (1994)
+195,213,Burnt by the Sun (Utomlyonnye solntsem) (1994)
+195,487,Lightning Jack (1994)
+196,229,Death and the Maiden (1994)
+196,468,"Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)"
+196,568,Bhaji on the Beach (1993)
+196,129,Pie in the Sky (1996)
+196,220,Castle Freak (1995)
+197,230,Dolores Claiborne (1995)
+197,377,Speed (1994)
+197,76,Screamers (1995)
+197,17,Sense and Sensibility (1995)
+197,458,Geronimo: An American Legend (1993)
+198,231,Dumb & Dumber (Dumb and Dumber) (1994)
+198,449,Fear of a Black Hat (1994)
+198,695,True Crime (1996)
+198,371,"Paper, The (1994)"
+198,487,Lightning Jack (1994)
+199,232,Eat Drink Man Woman (Yin shi nan nu) (1994)
+199,726,Last Dance (1996)
+199,449,Fear of a Black Hat (1994)
+199,547,Surviving the Game (1994)
+199,535,Short Cuts (1993)
+200,233,Exotica (1994)
+200,75,Big Bully (1996)
+200,254,Jefferson in Paris (1995)
+200,547,Surviving the Game (1994)
+200,436,Color of Night (1994)
+201,234,Exit to Eden (1994)
+201,695,True Crime (1996)
+201,371,"Paper, The (1994)"
+201,48,Pocahontas (1995)
+201,345,"Adventures of Priscilla, Queen of the Desert, The (1994)"
+202,235,Ed Wood (1994)
+202,535,Short Cuts (1993)
+202,741,Ghost in the Shell (Kôkaku kidôtai) (1995)
+202,63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+202,329,Star Trek: Generations (1994)
+203,236,French Kiss (1995)
+203,502,"Next Karate Kid, The (1994)"
+203,524,Rudy (1993)
+203,457,"Fugitive, The (1993)"
+203,711,Flipper (1996)
+204,237,Forget Paris (1995)
+204,292,Outbreak (1995)
+204,496,What Happened Was... (1994)
+204,270,Love Affair (1994)
+204,478,Jimmy Hollywood (1994)
+205,238,Far From Home: The Adventures of Yellow Dog (1995)
+205,332,Village of the Damned (1995)
+205,135,Down Periscope (1996)
+205,714,Dead Man (1995)
+205,175,Kids (1995)
+206,239,"Goofy Movie, A (1995)"
+206,310,Rent-a-Kid (1995)
+206,177,Lord of Illusions (1995)
+206,515,"Remains of the Day, The (1993)"
+206,608,Fargo (1996)
+207,240,Hideaway (1995)
+207,321,Strawberry and Chocolate (Fresa y chocolate) (1993)
+207,150,Apollo 13 (1995)
+207,450,With Honors (1994)
+207,311,Relative Fear (1994)
+208,241,Fluke (1995)
+208,568,Bhaji on the Beach (1993)
+208,386,S.F.W. (1994)
+208,107,Muppet Treasure Island (1996)
+208,214,Before the Rain (Pred dozhdot) (1994)
+209,242,Farinelli: il castrato (1994)
+209,220,Castle Freak (1995)
+209,25,Leaving Las Vegas (1995)
+209,502,"Next Karate Kid, The (1994)"
+209,478,Jimmy Hollywood (1994)
+210,243,Gordy (1995)
+210,541,Blade Runner (1982)
+210,720,Wallace & Gromit: The Best of Aardman Animation (1996)
+210,85,Angels and Insects (1995)
+210,714,Dead Man (1995)
+211,246,Hoop Dreams (1994)
+211,609,Homeward Bound II: Lost in San Francisco (1996)
+211,70,From Dusk Till Dawn (1996)
+211,284,New York Cop (Nyû Yôku no koppu) (1993)
+211,319,Shallow Grave (1994)
+212,247,Heavenly Creatures (1994)
+212,319,Shallow Grave (1994)
+212,284,New York Cop (Nyû Yôku no koppu) (1993)
+212,69,Friday (1995)
+212,346,Backbeat (1993)
+213,248,Houseguest (1994)
+213,82,Antonia's Line (Antonia) (1995)
+213,267,Major Payne (1995)
+213,502,"Next Karate Kid, The (1994)"
+213,700,Angus (1995)
+214,249,Immortal Beloved (1994)
+214,446,Farewell My Concubine (Ba wang bie ji) (1993)
+214,310,Rent-a-Kid (1995)
+214,239,"Goofy Movie, A (1995)"
+214,617,"Flower of My Secret, The (La flor de mi secreto) (1995)"
+215,250,Heavyweights (Heavy Weights) (1995)
+215,425,Blue Sky (1994)
+215,195,Something to Talk About (1995)
+215,410,Addams Family Values (1993)
+215,289,Only You (1994)
+216,251,"Hunted, The (1995)"
+216,184,Nadja (1994)
+216,473,In the Army Now (1994)
+216,535,Short Cuts (1993)
+216,315,"Specialist, The (1994)"
+217,252,I.Q. (1994)
+217,19,Ace Ventura: When Nature Calls (1995)
+217,63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+217,423,Blown Away (1994)
+217,335,Underneath (1995)
+218,253,Interview with the Vampire: The Vampire Chronicles (1994)
+218,85,Angels and Insects (1995)
+218,227,Drop Zone (1994)
+218,425,Blue Sky (1994)
+218,276,Milk Money (1994)
+219,254,Jefferson in Paris (1995)
+219,276,Milk Money (1994)
+219,762,Striptease (1996)
+219,496,What Happened Was... (1994)
+219,547,Surviving the Game (1994)
+220,255,"Jerky Boys, The (1995)"
+220,496,What Happened Was... (1994)
+220,276,Milk Money (1994)
+220,700,Angus (1995)
+220,371,"Paper, The (1994)"
+221,256,Junior (1994)
+221,535,Short Cuts (1993)
+221,184,Nadja (1994)
+221,331,Tom & Viv (1994)
+221,726,Last Dance (1996)
+222,257,Just Cause (1995)
+222,346,Backbeat (1993)
+222,270,Love Affair (1994)
+222,496,What Happened Was... (1994)
+222,168,First Knight (1995)
+223,258,"Kid in King Arthur's Court, A (1995)"
+223,292,Outbreak (1995)
+223,195,Something to Talk About (1995)
+223,425,Blue Sky (1994)
+223,496,What Happened Was... (1994)
+224,259,Kiss of Death (1995)
+224,234,Exit to Eden (1994)
+224,422,Blink (1994)
+224,741,Ghost in the Shell (Kôkaku kidôtai) (1995)
+224,315,"Specialist, The (1994)"
+225,260,Star Wars: Episode IV - A New Hope (1977)
+225,741,Ghost in the Shell (Kôkaku kidôtai) (1995)
+225,234,Exit to Eden (1994)
+225,19,Ace Ventura: When Nature Calls (1995)
+225,305,Ready to Wear (Pret-A-Porter) (1994)
+226,261,Little Women (1994)
+226,547,Surviving the Game (1994)
+226,254,Jefferson in Paris (1995)
+226,71,Fair Game (1995)
+226,762,Striptease (1996)
+227,262,"Little Princess, A (1995)"
+227,284,New York Cop (Nyû Yôku no koppu) (1993)
+227,367,"Mask, The (1994)"
+227,616,"Aristocats, The (1970)"
+227,270,Love Affair (1994)
+228,263,Ladybird Ladybird (1994)
+228,568,Bhaji on the Beach (1993)
+228,458,Geronimo: An American Legend (1993)
+228,267,Major Payne (1995)
+228,157,Canadian Bacon (1995)
+229,265,Like Water for Chocolate (Como agua para chocolate) (1992)
+229,272,"Madness of King George, The (1994)"
+229,536,"Simple Twist of Fate, A (1994)"
+229,434,Cliffhanger (1993)
+229,718,"Visitors, The (Visiteurs, Les) (1993)"
+230,266,Legends of the Fall (1994)
+230,276,Milk Money (1994)
+230,496,What Happened Was... (1994)
+230,255,"Jerky Boys, The (1995)"
+230,155,Beyond Rangoon (1995)
+231,267,Major Payne (1995)
+231,568,Bhaji on the Beach (1993)
+231,30,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)
+231,457,"Fugitive, The (1993)"
+231,468,"Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)"
+232,269,My Crazy Life (Mi vida loca) (1993)
+232,75,Big Bully (1996)
+232,436,Color of Night (1994)
+232,314,"Secret of Roan Inish, The (1994)"
+232,547,Surviving the Game (1994)
+233,270,Love Affair (1994)
+233,284,New York Cop (Nyû Yôku no koppu) (1993)
+233,711,Flipper (1996)
+233,747,"Stupids, The (1996)"
+233,496,What Happened Was... (1994)
+234,271,Losing Isaiah (1995)
+234,19,Ace Ventura: When Nature Calls (1995)
+234,20,Money Train (1995)
+234,252,I.Q. (1994)
+234,161,Crimson Tide (1995)
+235,272,"Madness of King George, The (1994)"
+235,41,Richard III (1995)
+235,510,Poetic Justice (1993)
+235,265,Like Water for Chocolate (Como agua para chocolate) (1992)
+235,519,RoboCop 3 (1993)
+236,273,Mary Shelley's Frankenstein (Frankenstein) (1994)
+236,450,With Honors (1994)
+236,704,"Quest, The (1996)"
+236,741,Ghost in the Shell (Kôkaku kidôtai) (1995)
+236,260,Star Wars: Episode IV - A New Hope (1977)
+237,274,Man of the House (1995)
+237,284,New York Cop (Nyû Yôku no koppu) (1993)
+237,262,"Little Princess, A (1995)"
+237,270,Love Affair (1994)
+237,322,Swimming with Sharks (1995)
+238,275,Mixed Nuts (1994)
+238,166,"Doom Generation, The (1995)"
+238,484,Lassie (1994)
+238,497,Much Ado About Nothing (1993)
+238,531,"Secret Garden, The (1993)"
+239,276,Milk Money (1994)
+239,496,What Happened Was... (1994)
+239,254,Jefferson in Paris (1995)
+239,195,Something to Talk About (1995)
+239,710,Celtic Pride (1996)
+240,277,Miracle on 34th Street (1994)
+240,325,National Lampoon's Senior Trip (1995)
+240,46,How to Make an American Quilt (1995)
+240,671,Mystery Science Theater 3000: The Movie (1996)
+240,731,Heaven's Prisoners (1996)
+241,278,Miami Rhapsody (1995)
+241,341,Double Happiness (1994)
+241,478,Jimmy Hollywood (1994)
+241,574,Spanking the Monkey (1994)
+241,44,Mortal Kombat (1995)
+242,279,My Family (1995)
+242,534,Shadowlands (1993)
+242,156,Blue in the Face (1995)
+242,703,Boys (1996)
+242,49,When Night Is Falling (1995)
+243,280,Murder in the First (1995)
+243,325,National Lampoon's Senior Trip (1995)
+243,553,Tombstone (1993)
+243,453,For Love or Money (1993)
+243,718,"Visitors, The (Visiteurs, Les) (1993)"
+244,281,Nobody's Fool (1994)
+244,611,Hellraiser: Bloodline (1996)
+244,305,Ready to Wear (Pret-A-Porter) (1994)
+244,214,Before the Rain (Pred dozhdot) (1994)
+244,11,"American President, The (1995)"
+245,282,Nell (1994)
+245,454,"Firm, The (1993)"
+245,556,"War Room, The (1993)"
+245,579,"Escort, The (Scorta, La) (1993)"
+245,412,"Age of Innocence, The (1993)"
+246,283,New Jersey Drive (1995)
+246,158,Casper (1995)
+246,550,Threesome (1994)
+246,496,What Happened Was... (1994)
+246,425,Blue Sky (1994)
+247,284,New York Cop (Nyû Yôku no koppu) (1993)
+247,747,"Stupids, The (1996)"
+247,433,Clean Slate (1994)
+247,168,First Knight (1995)
+247,496,What Happened Was... (1994)
+248,285,Beyond Bedlam (1993)
+248,30,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)
+248,541,Blade Runner (1982)
+248,720,Wallace & Gromit: The Best of Aardman Animation (1996)
+248,457,"Fugitive, The (1993)"
+249,287,Nina Takes a Lover (1994)
+249,75,Big Bully (1996)
+249,346,Backbeat (1993)
+249,435,Coneheads (1993)
+249,339,While You Were Sleeping (1995)
+250,288,Natural Born Killers (1994)
+250,454,"Firm, The (1993)"
+250,602,"Great Day in Harlem, A (1994)"
+250,303,"Quick and the Dead, The (1995)"
+250,66,Lawnmower Man 2: Beyond Cyberspace (1996)
+251,289,Only You (1994)
+251,16,Casino (1995)
+251,495,In the Realm of the Senses (Ai no corrida) (1976)
+251,458,Geronimo: An American Legend (1993)
+251,337,What's Eating Gilbert Grape (1993)
+252,290,Once Were Warriors (1994)
+252,459,"Getaway, The (1994)"
+252,175,Kids (1995)
+252,360,I Love Trouble (1994)
+252,523,Ruby in Paradise (1993)
+253,291,Poison Ivy II (1996)
+253,256,Junior (1994)
+253,93,Vampire in Brooklyn (1995)
+253,81,Things to Do in Denver When You're Dead (1995)
+253,328,Tales from the Crypt Presents: Demon Knight (1995)
+254,292,Outbreak (1995)
+254,496,What Happened Was... (1994)
+254,195,Something to Talk About (1995)
+254,457,"Fugitive, The (1993)"
+254,284,New York Cop (Nyû Yôku no koppu) (1993)
+255,293,Léon: The Professional (a.k.a. The Professional) (Léon) (1994)
+255,196,Species (1995)
+255,261,Little Women (1994)
+255,470,House Party 3 (1994)
+255,305,Ready to Wear (Pret-A-Porter) (1994)
+256,294,"Perez Family, The (1995)"
+256,15,Cutthroat Island (1995)
+256,21,Get Shorty (1995)
+256,532,Serial Mom (1994)
+256,287,Nina Takes a Lover (1994)
+257,295,"Pyromaniac's Love Story, A (1995)"
+257,227,Drop Zone (1994)
+257,371,"Paper, The (1994)"
+257,102,Mr. Wrong (1996)
+257,352,Crooklyn (1994)
+258,296,Pulp Fiction (1994)
+258,711,Flipper (1996)
+258,747,"Stupids, The (1996)"
+258,220,Castle Freak (1995)
+258,284,New York Cop (Nyû Yôku no koppu) (1993)
+259,298,Pushing Hands (Tui shou) (1992)
+259,695,True Crime (1996)
+259,7,Sabrina (1995)
+259,195,Something to Talk About (1995)
+259,371,"Paper, The (1994)"
+260,299,Priest (1994)
+260,328,Tales from the Crypt Presents: Demon Knight (1995)
+260,218,Boys on the Side (1995)
+260,256,Junior (1994)
+260,213,Burnt by the Sun (Utomlyonnye solntsem) (1994)
+261,300,Quiz Show (1994)
+261,157,Canadian Bacon (1995)
+261,17,Sense and Sensibility (1995)
+261,495,In the Realm of the Senses (Ai no corrida) (1976)
+261,284,New York Cop (Nyû Yôku no koppu) (1993)
+262,301,Picture Bride (Bijo photo) (1994)
+262,141,"Birdcage, The (1996)"
+262,688,Operation Dumbo Drop (1995)
+262,355,"Flintstones, The (1994)"
+262,464,Hard Target (1993)
+263,302,"Queen Margot (Reine Margot, La) (1994)"
+263,733,"Rock, The (1996)"
+263,171,Jeffrey (1995)
+263,233,Exotica (1994)
+263,556,"War Room, The (1993)"
+264,303,"Quick and the Dead, The (1995)"
+264,457,"Fugitive, The (1993)"
+264,345,"Adventures of Priscilla, Queen of the Desert, The (1994)"
+264,382,Wolf (1994)
+264,129,Pie in the Sky (1996)
+265,304,Roommates (1995)
+265,345,"Adventures of Priscilla, Queen of the Desert, The (1994)"
+265,235,Ed Wood (1994)
+265,707,Mulholland Falls (1996)
+265,176,Living in Oblivion (1995)
+266,305,Ready to Wear (Pret-A-Porter) (1994)
+266,741,Ghost in the Shell (Kôkaku kidôtai) (1995)
+266,535,Short Cuts (1993)
+266,63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+266,371,"Paper, The (1994)"
+267,306,Three Colors: Red (Trois couleurs: Rouge) (1994)
+267,568,Bhaji on the Beach (1993)
+267,344,Ace Ventura: Pet Detective (1994)
+267,267,Major Payne (1995)
+267,457,"Fugitive, The (1993)"
+268,307,Three Colors: Blue (Trois couleurs: Bleu) (1993)
+268,741,Ghost in the Shell (Kôkaku kidôtai) (1995)
+268,305,Ready to Wear (Pret-A-Porter) (1994)
+268,535,Short Cuts (1993)
+268,63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+269,308,Three Colors: White (Trzy kolory: Bialy) (1994)
+269,379,Timecop (1994)
+269,177,Lord of Illusions (1995)
+269,520,Robin Hood: Men in Tights (1993)
+269,419,"Beverly Hillbillies, The (1993)"
+270,310,Rent-a-Kid (1995)
+270,177,Lord of Illusions (1995)
+270,239,"Goofy Movie, A (1995)"
+270,446,Farewell My Concubine (Ba wang bie ji) (1993)
+270,515,"Remains of the Day, The (1993)"
+271,311,Relative Fear (1994)
+271,387,"Low Down Dirty Shame, A (1994)"
+271,432,City Slickers II: The Legend of Curly's Gold (1994)
+271,353,"Crow, The (1994)"
+271,306,Three Colors: Red (Trois couleurs: Rouge) (1994)
+272,312,Stuart Saves His Family (1995)
+272,24,Powder (1995)
+272,747,"Stupids, The (1996)"
+272,284,New York Cop (Nyû Yôku no koppu) (1993)
+272,15,Cutthroat Island (1995)
+273,313,"Swan Princess, The (1994)"
+273,510,Poetic Justice (1993)
+273,265,Like Water for Chocolate (Como agua para chocolate) (1992)
+273,272,"Madness of King George, The (1994)"
+273,41,Richard III (1995)
+274,314,"Secret of Roan Inish, The (1994)"
+274,762,Striptease (1996)
+274,75,Big Bully (1996)
+274,435,Coneheads (1993)
+274,254,Jefferson in Paris (1995)
+275,315,"Specialist, The (1994)"
+275,184,Nadja (1994)
+275,449,Fear of a Black Hat (1994)
+275,741,Ghost in the Shell (Kôkaku kidôtai) (1995)
+275,331,Tom & Viv (1994)
+276,316,Stargate (1994)
+276,146,"Amazing Panda Adventure, The (1995)"
+276,617,"Flower of My Secret, The (La flor de mi secreto) (1995)"
+276,575,"Little Rascals, The (1994)"
+276,277,Miracle on 34th Street (1994)
+277,317,"Santa Clause, The (1994)"
+277,617,"Flower of My Secret, The (La flor de mi secreto) (1995)"
+277,393,Street Fighter (1994)
+277,446,Farewell My Concubine (Ba wang bie ji) (1993)
+277,564,Chasers (1994)
+278,318,"Shawshank Redemption, The (1994)"
+278,685,It's My Party (1996)
+278,66,Lawnmower Man 2: Beyond Cyberspace (1996)
+278,495,In the Realm of the Senses (Ai no corrida) (1976)
+278,79,"Juror, The (1996)"
+279,319,Shallow Grave (1994)
+279,674,Barbarella (1968)
+279,496,What Happened Was... (1994)
+279,284,New York Cop (Nyû Yôku no koppu) (1993)
+279,247,Heavenly Creatures (1994)
+280,320,Suture (1993)
+280,233,Exotica (1994)
+280,612,"Pallbearer, The (1996)"
+280,208,Waterworld (1995)
+280,551,"Nightmare Before Christmas, The (1993)"
+281,321,Strawberry and Chocolate (Fresa y chocolate) (1993)
+281,539,Sleepless in Seattle (1993)
+281,474,In the Line of Fire (1993)
+281,342,Muriel's Wedding (1994)
+281,261,Little Women (1994)
+282,322,Swimming with Sharks (1995)
+282,496,What Happened Was... (1994)
+282,371,"Paper, The (1994)"
+282,276,Milk Money (1994)
+282,408,8 Seconds (1994)
+283,324,"Sum of Us, The (1994)"
+283,60,"Indian in the Cupboard, The (1995)"
+283,210,Wild Bill (1995)
+283,485,Last Action Hero (1993)
+283,40,"Cry, the Beloved Country (1995)"
+284,325,National Lampoon's Senior Trip (1995)
+284,105,"Bridges of Madison County, The (1995)"
+284,731,Heaven's Prisoners (1996)
+284,277,Miracle on 34th Street (1994)
+284,718,"Visitors, The (Visiteurs, Les) (1993)"
+285,326,To Live (Huozhe) (1994)
+285,198,Strange Days (1995)
+285,163,Desperado (1995)
+285,388,Boys Life (1995)
+285,535,Short Cuts (1993)
+286,327,Tank Girl (1995)
+286,171,Jeffrey (1995)
+286,487,Lightning Jack (1994)
+286,695,True Crime (1996)
+286,342,Muriel's Wedding (1994)
+287,328,Tales from the Crypt Presents: Demon Knight (1995)
+287,410,Addams Family Values (1993)
+287,547,Surviving the Game (1994)
+287,71,Fair Game (1995)
+287,299,Priest (1994)
+288,329,Star Trek: Generations (1994)
+288,726,Last Dance (1996)
+288,547,Surviving the Game (1994)
+288,475,In the Name of the Father (1993)
+288,535,Short Cuts (1993)
+289,330,Tales from the Hood (1995)
+289,68,French Twist (Gazon maudit) (1995)
+289,595,Beauty and the Beast (1991)
+289,592,Batman (1989)
+289,102,Mr. Wrong (1996)
+290,331,Tom & Viv (1994)
+290,698,Delta of Venus (1995)
+290,535,Short Cuts (1993)
+290,163,Desperado (1995)
+290,315,"Specialist, The (1994)"
+291,332,Village of the Damned (1995)
+291,175,Kids (1995)
+291,121,"Boys of St. Vincent, The (1992)"
+291,238,Far From Home: The Adventures of Yellow Dog (1995)
+291,653,Dragonheart (1996)
+292,333,Tommy Boy (1995)
+292,21,Get Shorty (1995)
+292,726,Last Dance (1996)
+292,75,Big Bully (1996)
+292,700,Angus (1995)
+293,334,Vanya on 42nd Street (1994)
+293,515,"Remains of the Day, The (1993)"
+293,150,Apollo 13 (1995)
+293,34,Babe (1995)
+293,210,Wild Bill (1995)
+294,335,Underneath (1995)
+294,252,I.Q. (1994)
+294,19,Ace Ventura: When Nature Calls (1995)
+294,63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+294,665,Underground (1995)
+295,336,"Walking Dead, The (1995)"
+295,495,In the Realm of the Senses (Ai no corrida) (1976)
+295,478,Jimmy Hollywood (1994)
+295,390,Faster Pussycat! Kill! Kill! (1965)
+295,17,Sense and Sensibility (1995)
+296,337,What's Eating Gilbert Grape (1993)
+296,341,Double Happiness (1994)
+296,289,Only You (1994)
+296,650,Moll Flanders (1996)
+296,378,Speechless (1994)
+297,338,Virtuosity (1995)
+297,724,"Craft, The (1996)"
+297,748,"Arrival, The (1996)"
+297,26,Othello (1995)
+297,423,Blown Away (1994)
+298,339,While You Were Sleeping (1995)
+298,287,Nina Takes a Lover (1994)
+298,75,Big Bully (1996)
+298,700,Angus (1995)
+298,346,Backbeat (1993)
+299,340,"War, The (1994)"
+299,13,Balto (1995)
+299,374,Richie Rich (1994)
+299,137,Man of the Year (1995)
+299,108,Catwalk (1996)
+300,341,Double Happiness (1994)
+300,574,Spanking the Monkey (1994)
+300,711,Flipper (1996)
+300,507,"Perfect World, A (1993)"
+300,270,Love Affair (1994)
+301,342,Muriel's Wedding (1994)
+301,327,Tank Girl (1995)
+301,195,Something to Talk About (1995)
+301,733,"Rock, The (1996)"
+301,276,Milk Money (1994)
+302,343,"Baby-Sitters Club, The (1995)"
+302,239,"Goofy Movie, A (1995)"
+302,310,Rent-a-Kid (1995)
+302,177,Lord of Illusions (1995)
+302,608,Fargo (1996)
+303,344,Ace Ventura: Pet Detective (1994)
+303,176,Living in Oblivion (1995)
+303,193,Showgirls (1995)
+303,306,Three Colors: Red (Trois couleurs: Rouge) (1994)
+303,695,True Crime (1996)
+304,345,"Adventures of Priscilla, Queen of the Desert, The (1994)"
+304,355,"Flintstones, The (1994)"
+304,611,Hellraiser: Bloodline (1996)
+304,695,True Crime (1996)
+304,48,Pocahontas (1995)
+305,346,Backbeat (1993)
+305,287,Nina Takes a Lover (1994)
+305,18,Four Rooms (1995)
+305,674,Barbarella (1968)
+305,381,When a Man Loves a Woman (1994)
+306,347,Bitter Moon (1992)
+306,459,"Getaway, The (1994)"
+306,128,Jupiter's Wife (1994)
+306,175,Kids (1995)
+306,80,"White Balloon, The (Badkonake sefid) (1995)"
+307,348,Bullets Over Broadway (1994)
+307,547,Surviving the Game (1994)
+307,261,Little Women (1994)
+307,314,"Secret of Roan Inish, The (1994)"
+307,71,Fair Game (1995)
+308,349,Clear and Present Danger (1994)
+308,284,New York Cop (Nyû Yôku no koppu) (1993)
+308,175,Kids (1995)
+308,532,Serial Mom (1994)
+308,332,Village of the Damned (1995)
+309,350,"Client, The (1994)"
+309,163,Desperado (1995)
+309,331,Tom & Viv (1994)
+309,726,Last Dance (1996)
+309,256,Junior (1994)
+310,351,"Corrina, Corrina (1994)"
+310,189,Reckless (1995)
+310,556,"War Room, The (1993)"
+310,196,Species (1995)
+310,302,"Queen Margot (Reine Margot, La) (1994)"
+311,352,Crooklyn (1994)
+311,330,Tales from the Hood (1995)
+311,295,"Pyromaniac's Love Story, A (1995)"
+311,328,Tales from the Crypt Presents: Demon Knight (1995)
+311,371,"Paper, The (1994)"
+312,353,"Crow, The (1994)"
+312,354,Cobb (1994)
+312,535,Short Cuts (1993)
+312,102,Mr. Wrong (1996)
+312,188,"Prophecy, The (1995)"
+313,354,Cobb (1994)
+313,516,Renaissance Man (1994)
+313,102,Mr. Wrong (1996)
+313,161,Crimson Tide (1995)
+313,535,Short Cuts (1993)
+314,355,"Flintstones, The (1994)"
+314,141,"Birdcage, The (1996)"
+314,688,Operation Dumbo Drop (1995)
+314,748,"Arrival, The (1996)"
+314,41,Richard III (1995)
+315,356,Forrest Gump (1994)
+315,27,Now and Then (1995)
+315,350,"Client, The (1994)"
+315,663,Kids in the Hall: Brain Candy (1996)
+315,331,Tom & Viv (1994)
+316,357,Four Weddings and a Funeral (1994)
+316,158,Casper (1995)
+316,425,Blue Sky (1994)
+316,71,Fair Game (1995)
+316,490,Malice (1993)
+317,358,Higher Learning (1995)
+317,496,What Happened Was... (1994)
+317,179,Mad Love (1995)
+317,417,Barcelona (1994)
+317,270,Love Affair (1994)
+318,359,I Like It Like That (1994)
+318,287,Nina Takes a Lover (1994)
+318,673,Space Jam (1996)
+318,18,Four Rooms (1995)
+318,339,While You Were Sleeping (1995)
+319,360,I Love Trouble (1994)
+319,284,New York Cop (Nyû Yôku no koppu) (1993)
+319,53,Lamerica (1994)
+319,650,Moll Flanders (1996)
+319,30,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)
+320,361,It Could Happen to You (1994)
+320,246,Hoop Dreams (1994)
+320,229,Death and the Maiden (1994)
+320,496,What Happened Was... (1994)
+320,332,Village of the Damned (1995)
+321,362,"Jungle Book, The (1994)"
+321,718,"Visitors, The (Visiteurs, Les) (1993)"
+321,389,"Colonel Chabert, Le (1994)"
+321,731,Heaven's Prisoners (1996)
+321,522,Romper Stomper (1992)
+322,363,"Wonderful, Horrible Life of Leni Riefenstahl, The (Macht der Bilder: Leni Riefenstahl, Die) (1993)"
+322,371,"Paper, The (1994)"
+322,496,What Happened Was... (1994)
+322,322,Swimming with Sharks (1995)
+322,195,Something to Talk About (1995)
+323,364,"Lion King, The (1994)"
+323,41,Richard III (1995)
+323,688,Operation Dumbo Drop (1995)
+323,748,"Arrival, The (1996)"
+323,594,Snow White and the Seven Dwarfs (1937)
+324,365,Little Buddha (1993)
+324,514,"Ref, The (1994)"
+324,146,"Amazing Panda Adventure, The (1995)"
+324,458,Geronimo: An American Legend (1993)
+324,144,"Brothers McMullen, The (1995)"
+325,366,"Wes Craven's New Nightmare (Nightmare on Elm Street Part 7: Freddy's Finale, A) (1994)"
+325,535,Short Cuts (1993)
+325,315,"Specialist, The (1994)"
+325,449,Fear of a Black Hat (1994)
+325,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
+326,367,"Mask, The (1994)"
+326,262,"Little Princess, A (1995)"
+326,270,Love Affair (1994)
+326,358,Higher Learning (1995)
+326,284,New York Cop (Nyû Yôku no koppu) (1993)
+327,368,Maverick (1994)
+327,538,Six Degrees of Separation (1993)
+327,700,Angus (1995)
+327,157,Canadian Bacon (1995)
+327,336,"Walking Dead, The (1995)"
+328,369,Mrs. Parker and the Vicious Circle (1994)
+328,284,New York Cop (Nyû Yôku no koppu) (1993)
+328,70,From Dusk Till Dawn (1996)
+328,371,"Paper, The (1994)"
+328,496,What Happened Was... (1994)
+329,370,Naked Gun 33 1/3: The Final Insult (1994)
+329,458,Geronimo: An American Legend (1993)
+329,23,Assassins (1995)
+329,574,Spanking the Monkey (1994)
+329,358,Higher Learning (1995)
+330,371,"Paper, The (1994)"
+330,496,What Happened Was... (1994)
+330,695,True Crime (1996)
+330,102,Mr. Wrong (1996)
+330,276,Milk Money (1994)
+331,372,Reality Bites (1994)
+331,168,First Knight (1995)
+331,284,New York Cop (Nyû Yôku no koppu) (1993)
+331,319,Shallow Grave (1994)
+331,69,Friday (1995)
+332,373,Red Rock West (1992)
+332,496,What Happened Was... (1994)
+332,371,"Paper, The (1994)"
+332,710,Celtic Pride (1996)
+332,292,Outbreak (1995)
+333,374,Richie Rich (1994)
+333,340,"War, The (1994)"
+333,13,Balto (1995)
+333,108,Catwalk (1996)
+333,368,Maverick (1994)
+334,376,"River Wild, The (1994)"
+334,496,What Happened Was... (1994)
+334,457,"Fugitive, The (1993)"
+334,168,First Knight (1995)
+334,255,"Jerky Boys, The (1995)"
+335,377,Speed (1994)
+335,159,Clockers (1995)
+335,724,"Craft, The (1996)"
+335,76,Screamers (1995)
+335,79,"Juror, The (1996)"
+336,378,Speechless (1994)
+336,284,New York Cop (Nyû Yôku no koppu) (1993)
+336,79,"Juror, The (1996)"
+336,292,Outbreak (1995)
+336,526,"Savage Nights (Nuits fauves, Les) (1992)"
+337,379,Timecop (1994)
+337,446,Farewell My Concubine (Ba wang bie ji) (1993)
+337,310,Rent-a-Kid (1995)
+337,617,"Flower of My Secret, The (La flor de mi secreto) (1995)"
+337,308,Three Colors: White (Trzy kolory: Bialy) (1994)
+338,380,True Lies (1994)
+338,495,In the Realm of the Senses (Ai no corrida) (1976)
+338,385,"Man of No Importance, A (1994)"
+338,179,Mad Love (1995)
+338,336,"Walking Dead, The (1995)"
+339,381,When a Man Loves a Woman (1994)
+339,346,Backbeat (1993)
+339,284,New York Cop (Nyû Yôku no koppu) (1993)
+339,119,"Steal Big, Steal Little (1995)"
+339,358,Higher Learning (1995)
+340,382,Wolf (1994)
+340,429,Cabin Boy (1994)
+340,89,Nick of Time (1995)
+340,434,Cliffhanger (1993)
+340,152,"Addiction, The (1995)"
+341,383,Wyatt Earp (1994)
+341,168,First Knight (1995)
+341,21,Get Shorty (1995)
+341,656,Eddie (1996)
+341,86,White Squall (1996)
+342,384,Bad Company (1995)
+342,185,"Net, The (1995)"
+342,113,Before and After (1996)
+342,440,Dave (1993)
+342,728,Cold Comfort Farm (1995)
+343,385,"Man of No Importance, A (1994)"
+343,157,Canadian Bacon (1995)
+343,17,Sense and Sensibility (1995)
+343,16,Casino (1995)
+343,458,Geronimo: An American Legend (1993)
+344,386,S.F.W. (1994)
+344,15,Cutthroat Island (1995)
+344,496,What Happened Was... (1994)
+344,656,Eddie (1996)
+344,241,Fluke (1995)
+345,387,"Low Down Dirty Shame, A (1994)"
+345,311,Relative Fear (1994)
+345,432,City Slickers II: The Legend of Curly's Gold (1994)
+345,504,No Escape (1994)
+345,173,Judge Dredd (1995)
+346,388,Boys Life (1995)
+346,81,Things to Do in Denver When You're Dead (1995)
+346,158,Casper (1995)
+346,444,Even Cowgirls Get the Blues (1993)
+346,449,Fear of a Black Hat (1994)
+347,389,"Colonel Chabert, Le (1994)"
+347,105,"Bridges of Madison County, The (1995)"
+347,434,Cliffhanger (1993)
+347,536,"Simple Twist of Fate, A (1994)"
+347,8,Tom and Huck (1995)
+348,390,Faster Pussycat! Kill! Kill! (1965)
+348,16,Casino (1995)
+348,179,Mad Love (1995)
+348,157,Canadian Bacon (1995)
+348,17,Sense and Sensibility (1995)
+349,391,Jason's Lyric (1994)
+349,519,RoboCop 3 (1993)
+349,169,Free Willy 2: The Adventure Home (1995)
+349,594,Snow White and the Seven Dwarfs (1937)
+349,464,Hard Target (1993)
+350,393,Street Fighter (1994)
+350,419,"Beverly Hillbillies, The (1993)"
+350,515,"Remains of the Day, The (1993)"
+350,446,Farewell My Concubine (Ba wang bie ji) (1993)
+350,617,"Flower of My Secret, The (La flor de mi secreto) (1995)"
+351,405,Highlander III: The Sorcerer (a.k.a. Highlander: The Final Dimension) (1994)
+351,478,Jimmy Hollywood (1994)
+351,494,Executive Decision (1996)
+351,270,Love Affair (1994)
+351,284,New York Cop (Nyû Yôku no koppu) (1993)
+352,406,Federal Hill (1994)
+352,319,Shallow Grave (1994)
+352,287,Nina Takes a Lover (1994)
+352,69,Friday (1995)
+352,284,New York Cop (Nyû Yôku no koppu) (1993)
+353,407,In the Mouth of Madness (1995)
+353,49,When Night Is Falling (1995)
+353,116,Anne Frank Remembered (1995)
+353,160,Congo (1995)
+353,62,Mr. Holland's Opus (1995)
+354,408,8 Seconds (1994)
+354,276,Milk Money (1994)
+354,695,True Crime (1996)
+354,487,Lightning Jack (1994)
+354,496,What Happened Was... (1994)
+355,409,Above the Rim (1994)
+355,27,Now and Then (1995)
+355,104,Happy Gilmore (1996)
+355,304,Roommates (1995)
+355,217,"Babysitter, The (1995)"
+356,410,Addams Family Values (1993)
+356,547,Surviving the Game (1994)
+356,496,What Happened Was... (1994)
+356,233,Exotica (1994)
+356,276,Milk Money (1994)
+357,412,"Age of Innocence, The (1993)"
+357,371,"Paper, The (1994)"
+357,547,Surviving the Game (1994)
+357,369,Mrs. Parker and the Vicious Circle (1994)
+357,208,Waterworld (1995)
+358,413,Airheads (1994)
+358,170,Hackers (1995)
+358,405,Highlander III: The Sorcerer (a.k.a. Highlander: The Final Dimension) (1994)
+358,715,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)"
+358,10,GoldenEye (1995)
+359,414,"Air Up There, The (1994)"
+359,371,"Paper, The (1994)"
+359,231,Dumb & Dumber (Dumb and Dumber) (1994)
+359,457,"Fugitive, The (1993)"
+359,408,8 Seconds (1994)
+360,415,Another Stakeout (1993)
+360,548,Terminal Velocity (1994)
+360,191,"Scarlet Letter, The (1995)"
+360,11,"American President, The (1995)"
+360,338,Virtuosity (1995)
+361,416,Bad Girls (1994)
+361,408,8 Seconds (1994)
+361,700,Angus (1995)
+361,501,Naked (1993)
+361,92,Mary Reilly (1996)
+362,417,Barcelona (1994)
+362,17,Sense and Sensibility (1995)
+362,458,Geronimo: An American Legend (1993)
+362,358,Higher Learning (1995)
+362,157,Canadian Bacon (1995)
+363,418,Being Human (1993)
+363,458,Geronimo: An American Legend (1993)
+363,526,"Savage Nights (Nuits fauves, Les) (1992)"
+363,597,Pretty Woman (1990)
+363,378,Speechless (1994)
+364,419,"Beverly Hillbillies, The (1993)"
+364,446,Farewell My Concubine (Ba wang bie ji) (1993)
+364,393,Street Fighter (1994)
+364,177,Lord of Illusions (1995)
+364,617,"Flower of My Secret, The (La flor de mi secreto) (1995)"
+365,420,Beverly Hills Cop III (1994)
+365,128,Jupiter's Wife (1994)
+365,287,Nina Takes a Lover (1994)
+365,168,First Knight (1995)
+365,680,"Alphaville (Alphaville, une étrange aventure de Lemmy Caution) (1965)"
+366,421,Black Beauty (1994)
+366,433,Clean Slate (1994)
+366,284,New York Cop (Nyû Yôku no koppu) (1993)
+366,220,Castle Freak (1995)
+366,30,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)
+367,422,Blink (1994)
+367,259,Kiss of Death (1995)
+367,412,"Age of Innocence, The (1993)"
+367,726,Last Dance (1996)
+367,547,Surviving the Game (1994)
+368,423,Blown Away (1994)
+368,516,Renaissance Man (1994)
+368,63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+368,535,Short Cuts (1993)
+368,252,I.Q. (1994)
+369,424,Blue Chips (1994)
+369,410,Addams Family Values (1993)
+369,371,"Paper, The (1994)"
+369,254,Jefferson in Paris (1995)
+369,70,From Dusk Till Dawn (1996)
+370,425,Blue Sky (1994)
+370,195,Something to Talk About (1995)
+370,371,"Paper, The (1994)"
+370,292,Outbreak (1995)
+370,258,"Kid in King Arthur's Court, A (1995)"
+371,426,Body Snatchers (1993)
+371,218,Boys on the Side (1995)
+371,496,What Happened Was... (1994)
+371,490,Malice (1993)
+371,543,So I Married an Axe Murderer (1993)
+372,427,Boxing Helena (1993)
+372,441,Dazed and Confused (1993)
+372,500,Mrs. Doubtfire (1993)
+372,94,Beautiful Girls (1996)
+372,611,Hellraiser: Bloodline (1996)
+373,428,"Bronx Tale, A (1993)"
+373,510,Poetic Justice (1993)
+373,748,"Arrival, The (1996)"
+373,472,I'll Do Anything (1994)
+373,64,Two if by Sea (1996)
+374,429,Cabin Boy (1994)
+374,382,Wolf (1994)
+374,694,"Substitute, The (1996)"
+374,156,Blue in the Face (1995)
+374,703,Boys (1996)
+375,430,Calendar Girl (1993)
+375,733,"Rock, The (1996)"
+375,96,In the Bleak Midwinter (1995)
+375,292,Outbreak (1995)
+375,529,Searching for Bobby Fischer (1993)
+376,431,Carlito's Way (1993)
+376,695,True Crime (1996)
+376,496,What Happened Was... (1994)
+376,276,Milk Money (1994)
+376,255,"Jerky Boys, The (1995)"
+377,432,City Slickers II: The Legend of Curly's Gold (1994)
+377,387,"Low Down Dirty Shame, A (1994)"
+377,311,Relative Fear (1994)
+377,535,Short Cuts (1993)
+377,665,Underground (1995)
+378,433,Clean Slate (1994)
+378,284,New York Cop (Nyû Yôku no koppu) (1993)
+378,220,Castle Freak (1995)
+378,72,Kicking and Screaming (1995)
+378,747,"Stupids, The (1996)"
+379,434,Cliffhanger (1993)
+379,152,"Addiction, The (1995)"
+379,536,"Simple Twist of Fate, A (1994)"
+379,389,"Colonel Chabert, Le (1994)"
+379,105,"Bridges of Madison County, The (1995)"
+380,435,Coneheads (1993)
+380,314,"Secret of Roan Inish, The (1994)"
+380,287,Nina Takes a Lover (1994)
+380,75,Big Bully (1996)
+380,674,Barbarella (1968)
+381,436,Color of Night (1994)
+381,75,Big Bully (1996)
+381,547,Surviving the Game (1994)
+381,612,"Pallbearer, The (1996)"
+381,254,Jefferson in Paris (1995)
+382,437,Cops and Robbersons (1994)
+382,284,New York Cop (Nyû Yôku no koppu) (1993)
+382,332,Village of the Damned (1995)
+382,69,Friday (1995)
+382,21,Get Shorty (1995)
+383,438,"Cowboy Way, The (1994)"
+383,704,"Quest, The (1996)"
+383,526,"Savage Nights (Nuits fauves, Les) (1992)"
+383,234,Exit to Eden (1994)
+383,631,All Dogs Go to Heaven 2 (1996)
+384,440,Dave (1993)
+384,599,"Wild Bunch, The (1969)"
+384,384,Bad Company (1995)
+384,496,What Happened Was... (1994)
+384,513,Radioland Murders (1994)
+385,441,Dazed and Confused (1993)
+385,427,Boxing Helena (1993)
+385,611,Hellraiser: Bloodline (1996)
+385,94,Beautiful Girls (1996)
+385,63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+386,442,Demolition Man (1993)
+386,553,Tombstone (1993)
+386,724,"Craft, The (1996)"
+386,748,"Arrival, The (1996)"
+386,731,Heaven's Prisoners (1996)
+387,444,Even Cowgirls Get the Blues (1993)
+387,535,Short Cuts (1993)
+387,726,Last Dance (1996)
+387,547,Surviving the Game (1994)
+387,745,Wallace & Gromit: A Close Shave (1995)
+388,445,Fatal Instinct (1993)
+388,635,"Family Thing, A (1996)"
+388,53,Lamerica (1994)
+388,459,"Getaway, The (1994)"
+388,590,Dances with Wolves (1990)
+389,446,Farewell My Concubine (Ba wang bie ji) (1993)
+389,419,"Beverly Hillbillies, The (1993)"
+389,310,Rent-a-Kid (1995)
+389,617,"Flower of My Secret, The (La flor de mi secreto) (1995)"
+389,177,Lord of Illusions (1995)
+390,448,Fearless (1993)
+390,171,Jeffrey (1995)
+390,222,Circle of Friends (1995)
+390,158,Casper (1995)
+390,342,Muriel's Wedding (1994)
+391,449,Fear of a Black Hat (1994)
+391,231,Dumb & Dumber (Dumb and Dumber) (1994)
+391,371,"Paper, The (1994)"
+391,535,Short Cuts (1993)
+391,315,"Specialist, The (1994)"
+392,450,With Honors (1994)
+392,113,Before and After (1996)
+392,470,House Party 3 (1994)
+392,728,Cold Comfort Farm (1995)
+392,384,Bad Company (1995)
+393,451,Flesh and Bone (1993)
+393,165,Die Hard: With a Vengeance (1995)
+393,700,Angus (1995)
+393,69,Friday (1995)
+393,70,From Dusk Till Dawn (1996)
+394,452,Widows' Peak (1994)
+394,434,Cliffhanger (1993)
+394,152,"Addiction, The (1995)"
+394,588,Aladdin (1992)
+394,49,When Night Is Falling (1995)
+395,453,For Love or Money (1993)
+395,105,"Bridges of Madison County, The (1995)"
+395,46,How to Make an American Quilt (1995)
+395,277,Miracle on 34th Street (1994)
+395,731,Heaven's Prisoners (1996)
+396,454,"Firm, The (1993)"
+396,378,Speechless (1994)
+396,581,"Celluloid Closet, The (1995)"
+396,74,Bed of Roses (1996)
+396,602,"Great Day in Harlem, A (1994)"
+397,455,Free Willy (1993)
+397,198,Strange Days (1995)
+397,256,Junior (1994)
+397,163,Desperado (1995)
+397,388,Boys Life (1995)
+398,456,Fresh (1994)
+398,747,"Stupids, The (1996)"
+398,16,Casino (1995)
+398,97,"Hate (Haine, La) (1995)"
+398,509,"Piano, The (1993)"
+399,457,"Fugitive, The (1993)"
+399,85,Angels and Insects (1995)
+399,292,Outbreak (1995)
+399,502,"Next Karate Kid, The (1994)"
+399,17,Sense and Sensibility (1995)
+400,458,Geronimo: An American Legend (1993)
+400,157,Canadian Bacon (1995)
+400,17,Sense and Sensibility (1995)
+400,284,New York Cop (Nyû Yôku no koppu) (1993)
+400,478,Jimmy Hollywood (1994)
+401,459,"Getaway, The (1994)"
+401,175,Kids (1995)
+401,590,Dances with Wolves (1990)
+401,747,"Stupids, The (1996)"
+401,349,Clear and Present Danger (1994)
+402,460,Getting Even with Dad (1994)
+402,594,Snow White and the Seven Dwarfs (1937)
+402,210,Wild Bill (1995)
+402,718,"Visitors, The (Visiteurs, Les) (1993)"
+402,536,"Simple Twist of Fate, A (1994)"
+403,461,Go Fish (1994)
+403,495,In the Realm of the Senses (Ai no corrida) (1976)
+403,157,Canadian Bacon (1995)
+403,179,Mad Love (1995)
+403,300,Quiz Show (1994)
+404,464,Hard Target (1993)
+404,519,RoboCop 3 (1993)
+404,434,Cliffhanger (1993)
+404,688,Operation Dumbo Drop (1995)
+404,510,Poetic Justice (1993)
+405,466,Hot Shots! Part Deux (1993)
+405,218,Boys on the Side (1995)
+405,710,Celtic Pride (1996)
+405,719,Multiplicity (1996)
+405,83,Once Upon a Time... When We Were Colored (1995)
+406,467,Live Nude Girls (1995)
+406,12,Dracula: Dead and Loving It (1995)
+406,551,"Nightmare Before Christmas, The (1993)"
+406,112,Rumble in the Bronx (Hont faan kui) (1995)
+406,759,Maya Lin: A Strong Clear Vision (1994)
+407,468,"Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)"
+407,30,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)
+407,220,Castle Freak (1995)
+407,650,Moll Flanders (1996)
+407,25,Leaving Las Vegas (1995)
+408,469,"House of the Spirits, The (1993)"
+408,319,Shallow Grave (1994)
+408,30,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)
+408,85,Angels and Insects (1995)
+408,69,Friday (1995)
+409,470,House Party 3 (1994)
+409,535,Short Cuts (1993)
+409,184,Nadja (1994)
+409,163,Desperado (1995)
+409,251,"Hunted, The (1995)"
+410,471,"Hudsucker Proxy, The (1994)"
+410,315,"Specialist, The (1994)"
+410,184,Nadja (1994)
+410,535,Short Cuts (1993)
+410,256,Junior (1994)
+411,472,I'll Do Anything (1994)
+411,519,RoboCop 3 (1993)
+411,718,"Visitors, The (Visiteurs, Les) (1993)"
+411,748,"Arrival, The (1996)"
+411,464,Hard Target (1993)
+412,473,In the Army Now (1994)
+412,184,Nadja (1994)
+412,251,"Hunted, The (1995)"
+412,698,Delta of Venus (1995)
+412,331,Tom & Viv (1994)
+413,474,In the Line of Fire (1993)
+413,378,Speechless (1994)
+413,626,"Thin Line Between Love and Hate, A (1996)"
+413,700,Angus (1995)
+413,496,What Happened Was... (1994)
+414,475,In the Name of the Father (1993)
+414,75,Big Bully (1996)
+414,547,Surviving the Game (1994)
+414,743,Spy Hard (1996)
+414,762,Striptease (1996)
+415,476,"Inkwell, The (1994)"
+415,179,Mad Love (1995)
+415,17,Sense and Sensibility (1995)
+415,157,Canadian Bacon (1995)
+415,458,Geronimo: An American Legend (1993)
+416,477,What's Love Got to Do with It? (1993)
+416,327,Tank Girl (1995)
+416,16,Casino (1995)
+416,733,"Rock, The (1996)"
+416,390,Faster Pussycat! Kill! Kill! (1965)
+417,478,Jimmy Hollywood (1994)
+417,284,New York Cop (Nyû Yôku no koppu) (1993)
+417,458,Geronimo: An American Legend (1993)
+417,711,Flipper (1996)
+417,270,Love Affair (1994)
+418,479,Judgment Night (1993)
+418,284,New York Cop (Nyû Yôku no koppu) (1993)
+418,711,Flipper (1996)
+418,250,Heavyweights (Heavy Weights) (1995)
+418,507,"Perfect World, A (1993)"
+419,480,Jurassic Park (1993)
+419,496,What Happened Was... (1994)
+419,276,Milk Money (1994)
+419,700,Angus (1995)
+419,17,Sense and Sensibility (1995)
+420,481,Kalifornia (1993)
+420,496,What Happened Was... (1994)
+420,284,New York Cop (Nyû Yôku no koppu) (1993)
+420,276,Milk Money (1994)
+420,195,Something to Talk About (1995)
+421,482,Killing Zoe (1994)
+421,225,Disclosure (1994)
+421,574,Spanking the Monkey (1994)
+421,16,Casino (1995)
+421,350,"Client, The (1994)"
+422,484,Lassie (1994)
+422,163,Desperado (1995)
+422,726,Last Dance (1996)
+422,476,"Inkwell, The (1994)"
+422,470,House Party 3 (1994)
+423,485,Last Action Hero (1993)
+423,89,Nick of Time (1995)
+423,382,Wolf (1994)
+423,434,Cliffhanger (1993)
+423,159,Clockers (1995)
+424,486,Life with Mikey (1993)
+424,478,Jimmy Hollywood (1994)
+424,358,Higher Learning (1995)
+424,284,New York Cop (Nyû Yôku no koppu) (1993)
+424,371,"Paper, The (1994)"
+425,487,Lightning Jack (1994)
+425,762,Striptease (1996)
+425,695,True Crime (1996)
+425,276,Milk Money (1994)
+425,496,What Happened Was... (1994)
+426,488,M. Butterfly (1993)
+426,168,First Knight (1995)
+426,349,Clear and Present Danger (1994)
+426,532,Serial Mom (1994)
+426,436,Color of Night (1994)
+427,489,Made in America (1993)
+427,670,"World of Apu, The (Apur Sansar) (1959)"
+427,85,Angels and Insects (1995)
+427,371,"Paper, The (1994)"
+427,68,French Twist (Gazon maudit) (1995)
+428,490,Malice (1993)
+428,762,Striptease (1996)
+428,487,Lightning Jack (1994)
+428,371,"Paper, The (1994)"
+428,496,What Happened Was... (1994)
+429,491,"Man Without a Face, The (1993)"
+429,718,"Visitors, The (Visiteurs, Les) (1993)"
+429,111,Taxi Driver (1976)
+429,552,"Three Musketeers, The (1993)"
+429,156,Blue in the Face (1995)
+430,492,Manhattan Murder Mystery (1993)
+430,302,"Queen Margot (Reine Margot, La) (1994)"
+430,96,In the Bleak Midwinter (1995)
+430,695,True Crime (1996)
+430,386,S.F.W. (1994)
+431,493,Menace II Society (1993)
+431,174,Jury Duty (1995)
+431,611,Hellraiser: Bloodline (1996)
+431,39,Clueless (1995)
+431,227,Drop Zone (1994)
+432,494,Executive Decision (1996)
+432,496,What Happened Was... (1994)
+432,276,Milk Money (1994)
+432,284,New York Cop (Nyû Yôku no koppu) (1993)
+432,700,Angus (1995)
+433,495,In the Realm of the Senses (Ai no corrida) (1976)
+433,458,Geronimo: An American Legend (1993)
+433,336,"Walking Dead, The (1995)"
+433,157,Canadian Bacon (1995)
+433,289,Only You (1994)
+434,496,What Happened Was... (1994)
+434,276,Milk Money (1994)
+434,371,"Paper, The (1994)"
+434,255,"Jerky Boys, The (1995)"
+434,195,Something to Talk About (1995)
+435,497,Much Ado About Nothing (1993)
+435,433,Clean Slate (1994)
+435,421,Black Beauty (1994)
+435,220,Castle Freak (1995)
+435,284,New York Cop (Nyû Yôku no koppu) (1993)
+436,499,Mr. Wonderful (1993)
+436,718,"Visitors, The (Visiteurs, Les) (1993)"
+436,542,Son in Law (1993)
+436,511,"Program, The (1993)"
+436,277,Miracle on 34th Street (1994)
+437,500,Mrs. Doubtfire (1993)
+437,94,Beautiful Girls (1996)
+437,427,Boxing Helena (1993)
+437,190,Safe (1995)
+437,748,"Arrival, The (1996)"
+438,501,Naked (1993)
+438,254,Jefferson in Paris (1995)
+438,762,Striptease (1996)
+438,547,Surviving the Game (1994)
+438,75,Big Bully (1996)
+439,502,"Next Karate Kid, The (1994)"
+439,650,Moll Flanders (1996)
+439,457,"Fugitive, The (1993)"
+439,30,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)
+439,242,Farinelli: il castrato (1994)
+440,504,No Escape (1994)
+440,16,Casino (1995)
+440,106,Nobody Loves Me (Keiner liebt mich) (1994)
+440,68,French Twist (Gazon maudit) (1995)
+440,426,Body Snatchers (1993)
+441,505,North (1994)
+441,267,Major Payne (1995)
+441,458,Geronimo: An American Legend (1993)
+441,421,Black Beauty (1994)
+441,129,Pie in the Sky (1996)
+442,506,Orlando (1992)
+442,504,No Escape (1994)
+442,637,Sgt. Bilko (1996)
+442,546,Super Mario Bros. (1993)
+442,542,Son in Law (1993)
+443,507,"Perfect World, A (1993)"
+443,341,Double Happiness (1994)
+443,457,"Fugitive, The (1993)"
+443,209,White Man's Burden (1995)
+443,242,Farinelli: il castrato (1994)
+444,508,Philadelphia (1993)
+444,428,"Bronx Tale, A (1993)"
+444,594,Snow White and the Seven Dwarfs (1937)
+444,724,"Craft, The (1996)"
+444,159,Clockers (1995)
+445,509,"Piano, The (1993)"
+445,16,Casino (1995)
+445,711,Flipper (1996)
+445,284,New York Cop (Nyû Yôku no koppu) (1993)
+445,17,Sense and Sensibility (1995)
+446,510,Poetic Justice (1993)
+446,272,"Madness of King George, The (1994)"
+446,688,Operation Dumbo Drop (1995)
+446,41,Richard III (1995)
+446,594,Snow White and the Seven Dwarfs (1937)
+447,511,"Program, The (1993)"
+447,731,Heaven's Prisoners (1996)
+447,105,"Bridges of Madison County, The (1995)"
+447,594,Snow White and the Seven Dwarfs (1937)
+447,718,"Visitors, The (Visiteurs, Les) (1993)"
+448,512,"Puppet Masters, The (1994)"
+448,75,Big Bully (1996)
+448,475,In the Name of the Father (1993)
+448,287,Nina Takes a Lover (1994)
+448,674,Barbarella (1968)
+449,513,Radioland Murders (1994)
+449,378,Speechless (1994)
+449,390,Faster Pussycat! Kill! Kill! (1965)
+449,68,French Twist (Gazon maudit) (1995)
+449,496,What Happened Was... (1994)
+450,514,"Ref, The (1994)"
+450,371,"Paper, The (1994)"
+450,365,Little Buddha (1993)
+450,647,Courage Under Fire (1996)
+450,496,What Happened Was... (1994)
+451,515,"Remains of the Day, The (1993)"
+451,310,Rent-a-Kid (1995)
+451,393,Street Fighter (1994)
+451,177,Lord of Illusions (1995)
+451,446,Farewell My Concubine (Ba wang bie ji) (1993)
+452,516,Renaissance Man (1994)
+452,354,Cobb (1994)
+452,161,Crimson Tide (1995)
+452,423,Blown Away (1994)
+452,63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+453,517,Rising Sun (1993)
+453,48,Pocahontas (1995)
+453,487,Lightning Jack (1994)
+453,71,Fair Game (1995)
+453,762,Striptease (1996)
+454,518,"Road to Wellville, The (1994)"
+454,299,Priest (1994)
+454,81,Things to Do in Denver When You're Dead (1995)
+454,300,Quiz Show (1994)
+454,358,Higher Learning (1995)
+455,519,RoboCop 3 (1993)
+455,464,Hard Target (1993)
+455,594,Snow White and the Seven Dwarfs (1937)
+455,434,Cliffhanger (1993)
+455,536,"Simple Twist of Fate, A (1994)"
+456,520,Robin Hood: Men in Tights (1993)
+456,446,Farewell My Concubine (Ba wang bie ji) (1993)
+456,617,"Flower of My Secret, The (La flor de mi secreto) (1995)"
+456,564,Chasers (1994)
+456,308,Three Colors: White (Trzy kolory: Bialy) (1994)
+457,521,Romeo Is Bleeding (1993)
+457,728,Cold Comfort Farm (1995)
+457,113,Before and After (1996)
+457,48,Pocahontas (1995)
+457,306,Three Colors: Red (Trois couleurs: Rouge) (1994)
+458,522,Romper Stomper (1992)
+458,536,"Simple Twist of Fate, A (1994)"
+458,434,Cliffhanger (1993)
+458,718,"Visitors, The (Visiteurs, Les) (1993)"
+458,152,"Addiction, The (1995)"
+459,523,Ruby in Paradise (1993)
+459,85,Angels and Insects (1995)
+459,747,"Stupids, The (1996)"
+459,714,Dead Man (1995)
+459,349,Clear and Present Danger (1994)
+460,524,Rudy (1993)
+460,711,Flipper (1996)
+460,747,"Stupids, The (1996)"
+460,220,Castle Freak (1995)
+460,284,New York Cop (Nyû Yôku no koppu) (1993)
+461,526,"Savage Nights (Nuits fauves, Les) (1992)"
+461,378,Speechless (1994)
+461,289,Only You (1994)
+461,284,New York Cop (Nyû Yôku no koppu) (1993)
+461,220,Castle Freak (1995)
+462,527,Schindler's List (1993)
+462,256,Junior (1994)
+462,535,Short Cuts (1993)
+462,184,Nadja (1994)
+462,371,"Paper, The (1994)"
+463,528,"Scout, The (1994)"
+463,502,"Next Karate Kid, The (1994)"
+463,457,"Fugitive, The (1993)"
+463,171,Jeffrey (1995)
+463,529,Searching for Bobby Fischer (1993)
+464,529,Searching for Bobby Fischer (1993)
+464,496,What Happened Was... (1994)
+464,276,Milk Money (1994)
+464,17,Sense and Sensibility (1995)
+464,487,Lightning Jack (1994)
+465,531,"Secret Garden, The (1993)"
+465,65,Bio-Dome (1996)
+465,423,Blown Away (1994)
+465,535,Short Cuts (1993)
+465,63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+466,532,Serial Mom (1994)
+466,541,Blade Runner (1982)
+466,121,"Boys of St. Vincent, The (1992)"
+466,714,Dead Man (1995)
+466,711,Flipper (1996)
+467,533,"Shadow, The (1994)"
+467,414,"Air Up There, The (1994)"
+467,626,"Thin Line Between Love and Hate, A (1996)"
+467,34,Babe (1995)
+467,341,Double Happiness (1994)
+468,534,Shadowlands (1993)
+468,156,Blue in the Face (1995)
+468,279,My Family (1995)
+468,49,When Night Is Falling (1995)
+468,172,Johnny Mnemonic (1995)
+469,535,Short Cuts (1993)
+469,63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+469,741,Ghost in the Shell (Kôkaku kidôtai) (1995)
+469,235,Ed Wood (1994)
+469,726,Last Dance (1996)
+470,536,"Simple Twist of Fate, A (1994)"
+470,434,Cliffhanger (1993)
+470,105,"Bridges of Madison County, The (1995)"
+470,389,"Colonel Chabert, Le (1994)"
+470,152,"Addiction, The (1995)"
+471,537,Sirens (1994)
+471,711,Flipper (1996)
+471,74,Bed of Roses (1996)
+471,341,Double Happiness (1994)
+471,457,"Fugitive, The (1993)"
+472,538,Six Degrees of Separation (1993)
+472,157,Canadian Bacon (1995)
+472,220,Castle Freak (1995)
+472,433,Clean Slate (1994)
+472,458,Geronimo: An American Legend (1993)
+473,539,Sleepless in Seattle (1993)
+473,225,Disclosure (1994)
+473,300,Quiz Show (1994)
+473,513,Radioland Murders (1994)
+473,321,Strawberry and Chocolate (Fresa y chocolate) (1993)
+474,540,Sliver (1993)
+474,475,In the Name of the Father (1993)
+474,726,Last Dance (1996)
+474,547,Surviving the Game (1994)
+474,329,Star Trek: Generations (1994)
+475,541,Blade Runner (1982)
+475,532,Serial Mom (1994)
+475,69,Friday (1995)
+475,21,Get Shorty (1995)
+475,165,Die Hard: With a Vengeance (1995)
+476,542,Son in Law (1993)
+476,522,Romper Stomper (1992)
+476,718,"Visitors, The (Visiteurs, Les) (1993)"
+476,272,"Madness of King George, The (1994)"
+476,519,RoboCop 3 (1993)
+477,543,So I Married an Axe Murderer (1993)
+477,496,What Happened Was... (1994)
+477,254,Jefferson in Paris (1995)
+477,547,Surviving the Game (1994)
+477,436,Color of Night (1994)
+478,544,Striking Distance (1993)
+478,266,Legends of the Fall (1994)
+478,155,Beyond Rangoon (1995)
+478,64,Two if by Sea (1996)
+478,48,Pocahontas (1995)
+479,546,Super Mario Bros. (1993)
+479,535,Short Cuts (1993)
+479,329,Star Trek: Generations (1994)
+479,475,In the Name of the Father (1993)
+479,470,House Party 3 (1994)
+480,547,Surviving the Game (1994)
+480,71,Fair Game (1995)
+480,762,Striptease (1996)
+480,276,Milk Money (1994)
+480,496,What Happened Was... (1994)
+481,548,Terminal Velocity (1994)
+481,415,Another Stakeout (1993)
+481,191,"Scarlet Letter, The (1995)"
+481,11,"American President, The (1995)"
+481,533,"Shadow, The (1994)"
+482,549,Thirty-Two Short Films About Glenn Gould (1993)
+482,7,Sabrina (1995)
+482,695,True Crime (1996)
+482,762,Striptease (1996)
+482,501,Naked (1993)
+483,550,Threesome (1994)
+483,75,Big Bully (1996)
+483,254,Jefferson in Paris (1995)
+483,496,What Happened Was... (1994)
+483,436,Color of Night (1994)
+484,551,"Nightmare Before Christmas, The (1993)"
+484,75,Big Bully (1996)
+484,261,Little Women (1994)
+484,314,"Secret of Roan Inish, The (1994)"
+484,233,Exotica (1994)
+485,552,"Three Musketeers, The (1993)"
+485,152,"Addiction, The (1995)"
+485,434,Cliffhanger (1993)
+485,156,Blue in the Face (1995)
+485,703,Boys (1996)
+486,553,Tombstone (1993)
+486,89,Nick of Time (1995)
+486,382,Wolf (1994)
+486,731,Heaven's Prisoners (1996)
+486,105,"Bridges of Madison County, The (1995)"
+487,555,True Romance (1993)
+487,711,Flipper (1996)
+487,509,"Piano, The (1993)"
+487,747,"Stupids, The (1996)"
+487,85,Angels and Insects (1995)
+488,556,"War Room, The (1993)"
+488,302,"Queen Margot (Reine Margot, La) (1994)"
+488,196,Species (1995)
+488,711,Flipper (1996)
+488,457,"Fugitive, The (1993)"
+489,558,"Pagemaster, The (1994)"
+489,158,Casper (1995)
+489,75,Big Bully (1996)
+489,550,Threesome (1994)
+489,726,Last Dance (1996)
+490,562,Welcome to the Dollhouse (1995)
+490,270,Love Affair (1994)
+490,284,New York Cop (Nyû Yôku no koppu) (1993)
+490,433,Clean Slate (1994)
+490,168,First Knight (1995)
+491,563,Germinal (1993)
+491,187,Party Girl (1995)
+491,488,M. Butterfly (1993)
+491,532,Serial Mom (1994)
+491,332,Village of the Damned (1995)
+492,564,Chasers (1994)
+492,379,Timecop (1994)
+492,393,Street Fighter (1994)
+492,520,Robin Hood: Men in Tights (1993)
+492,446,Farewell My Concubine (Ba wang bie ji) (1993)
+493,567,Kika (1993)
+493,568,Bhaji on the Beach (1993)
+493,87,Dunston Checks In (1996)
+493,193,Showgirls (1995)
+493,516,Renaissance Man (1994)
+494,568,Bhaji on the Beach (1993)
+494,267,Major Payne (1995)
+494,193,Showgirls (1995)
+494,650,Moll Flanders (1996)
+494,107,Muppet Treasure Island (1996)
+495,569,Little Big League (1994)
+495,287,Nina Takes a Lover (1994)
+495,148,"Awfully Big Adventure, An (1995)"
+495,339,While You Were Sleeping (1995)
+495,673,Space Jam (1996)
+496,573,"Ciao, Professore! (Io speriamo che me la cavo) (1992)"
+496,538,Six Degrees of Separation (1993)
+496,468,"Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)"
+496,478,Jimmy Hollywood (1994)
+496,555,True Romance (1993)
+497,574,Spanking the Monkey (1994)
+497,341,Double Happiness (1994)
+497,179,Mad Love (1995)
+497,478,Jimmy Hollywood (1994)
+497,16,Casino (1995)
+498,575,"Little Rascals, The (1994)"
+498,152,"Addiction, The (1995)"
+498,434,Cliffhanger (1993)
+498,552,"Three Musketeers, The (1993)"
+498,382,Wolf (1994)
+499,577,Andre (1994)
+499,595,Beauty and the Beast (1991)
+499,17,Sense and Sensibility (1995)
+499,291,Poison Ivy II (1996)
+499,198,Strange Days (1995)
+500,579,"Escort, The (Scorta, La) (1993)"
+500,517,Rising Sun (1993)
+500,48,Pocahontas (1995)
+500,63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+500,741,Ghost in the Shell (Kôkaku kidôtai) (1995)
+501,580,Princess Caraboo (1994)
+501,310,Rent-a-Kid (1995)
+501,608,Fargo (1996)
+501,177,Lord of Illusions (1995)
+501,446,Farewell My Concubine (Ba wang bie ji) (1993)
+502,581,"Celluloid Closet, The (1995)"
+502,454,"Firm, The (1993)"
+502,535,Short Cuts (1993)
+502,371,"Paper, The (1994)"
+502,161,Crimson Tide (1995)
+503,583,Dear Diary (Caro Diario) (1994)
+503,17,Sense and Sensibility (1995)
+503,284,New York Cop (Nyû Yôku no koppu) (1993)
+503,458,Geronimo: An American Legend (1993)
+503,289,Only You (1994)
+504,585,"Brady Bunch Movie, The (1995)"
+504,233,Exotica (1994)
+504,302,"Queen Margot (Reine Margot, La) (1994)"
+504,328,Tales from the Crypt Presents: Demon Knight (1995)
+504,158,Casper (1995)
+505,586,Home Alone (1990)
+505,505,North (1994)
+505,218,Boys on the Side (1995)
+505,209,White Man's Burden (1995)
+505,627,"Last Supper, The (1995)"
+506,587,Ghost (1990)
+506,612,"Pallbearer, The (1996)"
+506,320,Suture (1993)
+506,80,"White Balloon, The (Badkonake sefid) (1995)"
+506,590,Dances with Wolves (1990)
+507,588,Aladdin (1992)
+507,152,"Addiction, The (1995)"
+507,434,Cliffhanger (1993)
+507,389,"Colonel Chabert, Le (1994)"
+507,594,Snow White and the Seven Dwarfs (1937)
+508,589,Terminator 2: Judgment Day (1991)
+508,9,Sudden Death (1995)
+508,74,Bed of Roses (1996)
+508,513,Radioland Murders (1994)
+508,353,"Crow, The (1994)"
+509,590,Dances with Wolves (1990)
+509,612,"Pallbearer, The (1996)"
+509,208,Waterworld (1995)
+509,436,Color of Night (1994)
+509,550,Threesome (1994)
+510,592,Batman (1989)
+510,547,Surviving the Game (1994)
+510,726,Last Dance (1996)
+510,371,"Paper, The (1994)"
+510,276,Milk Money (1994)
+511,593,"Silence of the Lambs, The (1991)"
+511,711,Flipper (1996)
+511,220,Castle Freak (1995)
+511,406,Federal Hill (1994)
+511,242,Farinelli: il castrato (1994)
+512,594,Snow White and the Seven Dwarfs (1937)
+512,105,"Bridges of Madison County, The (1995)"
+512,519,RoboCop 3 (1993)
+512,434,Cliffhanger (1993)
+512,152,"Addiction, The (1995)"
+513,595,Beauty and the Beast (1991)
+513,79,"Juror, The (1996)"
+513,68,French Twist (Gazon maudit) (1995)
+513,485,Last Action Hero (1993)
+513,457,"Fugitive, The (1993)"
+514,596,Pinocchio (1940)
+514,726,Last Dance (1996)
+514,674,Barbarella (1968)
+514,369,Mrs. Parker and the Vicious Circle (1994)
+514,284,New York Cop (Nyû Yôku no koppu) (1993)
+515,597,Pretty Woman (1990)
+515,25,Leaving Las Vegas (1995)
+515,220,Castle Freak (1995)
+515,650,Moll Flanders (1996)
+515,747,"Stupids, The (1996)"
+516,599,"Wild Bunch, The (1969)"
+516,440,Dave (1993)
+516,211,"Browning Version, The (1994)"
+516,343,"Baby-Sitters Club, The (1995)"
+516,555,True Romance (1993)
+517,600,Love and a .45 (1994)
+517,208,Waterworld (1995)
+517,369,Mrs. Parker and the Vicious Circle (1994)
+517,726,Last Dance (1996)
+517,412,"Age of Innocence, The (1993)"
+518,602,"Great Day in Harlem, A (1994)"
+518,454,"Firm, The (1993)"
+518,288,Natural Born Killers (1994)
+518,487,Lightning Jack (1994)
+518,585,"Brady Bunch Movie, The (1995)"
+519,605,One Fine Day (1996)
+519,474,In the Line of Fire (1993)
+519,638,Jack and Sarah (1995)
+519,656,Eddie (1996)
+519,300,Quiz Show (1994)
+520,606,Candyman: Farewell to the Flesh (1995)
+520,496,What Happened Was... (1994)
+520,371,"Paper, The (1994)"
+520,255,"Jerky Boys, The (1995)"
+520,550,Threesome (1994)
+521,608,Fargo (1996)
+521,310,Rent-a-Kid (1995)
+521,177,Lord of Illusions (1995)
+521,515,"Remains of the Day, The (1993)"
+521,239,"Goofy Movie, A (1995)"
+522,609,Homeward Bound II: Lost in San Francisco (1996)
+522,70,From Dusk Till Dawn (1996)
+522,496,What Happened Was... (1994)
+522,700,Angus (1995)
+522,284,New York Cop (Nyû Yôku no koppu) (1993)
+523,610,Heavy Metal (1981)
+523,711,Flipper (1996)
+523,220,Castle Freak (1995)
+523,284,New York Cop (Nyû Yôku no koppu) (1993)
+523,747,"Stupids, The (1996)"
+524,611,Hellraiser: Bloodline (1996)
+524,553,Tombstone (1993)
+524,441,Dazed and Confused (1993)
+524,207,"Walk in the Clouds, A (1995)"
+524,345,"Adventures of Priscilla, Queen of the Desert, The (1994)"
+525,612,"Pallbearer, The (1996)"
+525,75,Big Bully (1996)
+525,208,Waterworld (1995)
+525,436,Color of Night (1994)
+525,550,Threesome (1994)
+526,613,Jane Eyre (1996)
+526,180,Mallrats (1995)
+526,44,Mortal Kombat (1995)
+526,278,Miami Rhapsody (1995)
+526,270,Love Affair (1994)
+527,615,Bread and Chocolate (Pane e cioccolata) (1973)
+527,707,Mulholland Falls (1996)
+527,217,"Babysitter, The (1995)"
+527,329,Star Trek: Generations (1994)
+527,535,Short Cuts (1993)
+528,616,"Aristocats, The (1970)"
+528,262,"Little Princess, A (1995)"
+528,358,Higher Learning (1995)
+528,284,New York Cop (Nyû Yôku no koppu) (1993)
+528,496,What Happened Was... (1994)
+529,617,"Flower of My Secret, The (La flor de mi secreto) (1995)"
+529,446,Farewell My Concubine (Ba wang bie ji) (1993)
+529,317,"Santa Clause, The (1994)"
+529,310,Rent-a-Kid (1995)
+529,419,"Beverly Hillbillies, The (1993)"
+530,618,Two Much (1995)
+530,519,RoboCop 3 (1993)
+530,434,Cliffhanger (1993)
+530,522,Romper Stomper (1992)
+530,552,"Three Musketeers, The (1993)"
+531,619,Ed (1996)
+531,457,"Fugitive, The (1993)"
+531,85,Angels and Insects (1995)
+531,568,Bhaji on the Beach (1993)
+531,267,Major Payne (1995)
+532,626,"Thin Line Between Love and Hate, A (1996)"
+532,568,Bhaji on the Beach (1993)
+532,267,Major Payne (1995)
+532,214,Before the Rain (Pred dozhdot) (1994)
+532,650,Moll Flanders (1996)
+533,627,"Last Supper, The (1995)"
+533,537,Sirens (1994)
+533,678,Some Folks Call It a Sling Blade (1993)
+533,220,Castle Freak (1995)
+533,148,"Awfully Big Adventure, An (1995)"
+534,628,Primal Fear (1996)
+534,287,Nina Takes a Lover (1994)
+534,21,Get Shorty (1995)
+534,435,Coneheads (1993)
+534,700,Angus (1995)
+535,631,All Dogs Go to Heaven 2 (1996)
+535,113,Before and After (1996)
+535,42,Dead Presidents (1995)
+535,307,Three Colors: Blue (Trois couleurs: Bleu) (1993)
+535,704,"Quest, The (1996)"
+536,632,Land and Freedom (Tierra y libertad) (1995)
+536,519,RoboCop 3 (1993)
+536,434,Cliffhanger (1993)
+536,552,"Three Musketeers, The (1993)"
+536,152,"Addiction, The (1995)"
+537,633,Denise Calls Up (1995)
+537,433,Clean Slate (1994)
+537,121,"Boys of St. Vincent, The (1992)"
+537,220,Castle Freak (1995)
+537,270,Love Affair (1994)
+538,634,Theodore Rex (1995)
+538,360,I Love Trouble (1994)
+538,488,M. Butterfly (1993)
+538,612,"Pallbearer, The (1996)"
+538,168,First Knight (1995)
+539,635,"Family Thing, A (1996)"
+539,168,First Knight (1995)
+539,459,"Getaway, The (1994)"
+539,523,Ruby in Paradise (1993)
+539,488,M. Butterfly (1993)
+540,636,Frisk (1995)
+540,292,Outbreak (1995)
+540,468,"Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)"
+540,155,Beyond Rangoon (1995)
+540,284,New York Cop (Nyû Yôku no koppu) (1993)
+541,637,Sgt. Bilko (1996)
+541,511,"Program, The (1993)"
+541,472,I'll Do Anything (1994)
+541,64,Two if by Sea (1996)
+541,731,Heaven's Prisoners (1996)
+542,638,Jack and Sarah (1995)
+542,276,Milk Money (1994)
+542,342,Muriel's Wedding (1994)
+542,168,First Knight (1995)
+542,496,What Happened Was... (1994)
+543,639,Girl 6 (1996)
+543,496,What Happened Was... (1994)
+543,96,In the Bleak Midwinter (1995)
+543,74,Bed of Roses (1996)
+543,255,"Jerky Boys, The (1995)"
+544,640,Diabolique (1996)
+544,310,Rent-a-Kid (1995)
+544,249,Immortal Beloved (1994)
+544,78,"Crossing Guard, The (1995)"
+544,446,Farewell My Concubine (Ba wang bie ji) (1993)
+545,645,Nelly & Monsieur Arnaud (1995)
+545,423,Blown Away (1994)
+545,252,I.Q. (1994)
+545,531,"Secret Garden, The (1993)"
+545,266,Legends of the Fall (1994)
+546,647,Courage Under Fire (1996)
+546,514,"Ref, The (1994)"
+546,423,Blown Away (1994)
+546,665,Underground (1995)
+546,86,White Squall (1996)
+547,648,Mission: Impossible (1996)
+547,315,"Specialist, The (1994)"
+547,184,Nadja (1994)
+547,305,Ready to Wear (Pret-A-Porter) (1994)
+547,307,Three Colors: Blue (Trois couleurs: Bleu) (1993)
+548,649,Cold Fever (Á köldum klaka) (1995)
+548,85,Angels and Insects (1995)
+548,220,Castle Freak (1995)
+548,728,Cold Comfort Farm (1995)
+548,457,"Fugitive, The (1993)"
+549,650,Moll Flanders (1996)
+549,468,"Englishman Who Went Up a Hill But Came Down a Mountain, The (1995)"
+549,568,Bhaji on the Beach (1993)
+549,502,"Next Karate Kid, The (1994)"
+549,30,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)
+550,653,Dragonheart (1996)
+550,332,Village of the Damned (1995)
+550,30,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995)
+550,181,Mighty Morphin Power Rangers: The Movie (1995)
+550,714,Dead Man (1995)
+551,656,Eddie (1996)
+551,69,Friday (1995)
+551,284,New York Cop (Nyû Yôku no koppu) (1993)
+551,711,Flipper (1996)
+551,532,Serial Mom (1994)
+552,661,James and the Giant Peach (1996)
+552,517,Rising Sun (1993)
+552,102,Mr. Wrong (1996)
+552,762,Striptease (1996)
+552,48,Pocahontas (1995)
+553,662,Fear (1996)
+553,719,Multiplicity (1996)
+553,358,Higher Learning (1995)
+553,276,Milk Money (1994)
+553,496,What Happened Was... (1994)
+554,663,Kids in the Hall: Brain Candy (1996)
+554,412,"Age of Innocence, The (1993)"
+554,369,Mrs. Parker and the Vicious Circle (1994)
+554,726,Last Dance (1996)
+554,284,New York Cop (Nyû Yôku no koppu) (1993)
+555,665,Underground (1995)
+555,19,Ace Ventura: When Nature Calls (1995)
+555,741,Ghost in the Shell (Kôkaku kidôtai) (1995)
+555,535,Short Cuts (1993)
+555,329,Star Trek: Generations (1994)
+556,667,Bloodsport 2 (a.k.a. Bloodsport II: The Next Kumite) (1996)
+556,121,"Boys of St. Vincent, The (1992)"
+556,332,Village of the Damned (1995)
+556,175,Kids (1995)
+556,532,Serial Mom (1994)
+557,668,Song of the Little Road (Pather Panchali) (1955)
+557,568,Bhaji on the Beach (1993)
+557,650,Moll Flanders (1996)
+557,79,"Juror, The (1996)"
+557,502,"Next Karate Kid, The (1994)"
+558,670,"World of Apu, The (Apur Sansar) (1959)"
+558,489,Made in America (1993)
+558,371,"Paper, The (1994)"
+558,48,Pocahontas (1995)
+558,762,Striptease (1996)
+559,671,Mystery Science Theater 3000: The Movie (1996)
+559,277,Miracle on 34th Street (1994)
+559,64,Two if by Sea (1996)
+559,141,"Birdcage, The (1996)"
+559,731,Heaven's Prisoners (1996)
+560,673,Space Jam (1996)
+560,496,What Happened Was... (1994)
+560,339,While You Were Sleeping (1995)
+560,287,Nina Takes a Lover (1994)
+560,254,Jefferson in Paris (1995)
+561,674,Barbarella (1968)
+561,700,Angus (1995)
+561,496,What Happened Was... (1994)
+561,319,Shallow Grave (1994)
+561,75,Big Bully (1996)
+562,678,Some Folks Call It a Sling Blade (1993)
+562,674,Barbarella (1968)
+562,547,Surviving the Game (1994)
+562,371,"Paper, The (1994)"
+562,487,Lightning Jack (1994)
+563,679,"Run of the Country, The (1995)"
+563,10,GoldenEye (1995)
+563,208,Waterworld (1995)
+563,612,"Pallbearer, The (1996)"
+563,170,Hackers (1995)
+564,680,"Alphaville (Alphaville, une étrange aventure de Lemmy Caution) (1965)"
+564,128,Jupiter's Wife (1994)
+564,420,Beverly Hills Cop III (1994)
+564,80,"White Balloon, The (Badkonake sefid) (1995)"
+564,563,Germinal (1993)
+565,685,It's My Party (1996)
+565,159,Clockers (1995)
+565,8,Tom and Huck (1995)
+565,594,Snow White and the Seven Dwarfs (1937)
+565,169,Free Willy 2: The Adventure Home (1995)
+566,688,Operation Dumbo Drop (1995)
+566,510,Poetic Justice (1993)
+566,41,Richard III (1995)
+566,464,Hard Target (1993)
+566,594,Snow White and the Seven Dwarfs (1937)
+567,691,Mrs. Winterbourne (1996)
+567,737,Barb Wire (1996)
+567,247,Heavenly Creatures (1994)
+567,287,Nina Takes a Lover (1994)
+567,747,"Stupids, The (1996)"
+568,692,Solo (1996)
+568,60,"Indian in the Cupboard, The (1995)"
+568,169,Free Willy 2: The Adventure Home (1995)
+568,508,Philadelphia (1993)
+568,377,Speed (1994)
+569,694,"Substitute, The (1996)"
+569,429,Cabin Boy (1994)
+569,172,Johnny Mnemonic (1995)
+569,382,Wolf (1994)
+569,152,"Addiction, The (1995)"
+570,695,True Crime (1996)
+570,371,"Paper, The (1994)"
+570,496,What Happened Was... (1994)
+570,276,Milk Money (1994)
+570,487,Lightning Jack (1994)
+571,697,Feeling Minnesota (1996)
+571,353,"Crow, The (1994)"
+571,615,Bread and Chocolate (Pane e cioccolata) (1973)
+571,260,Star Wars: Episode IV - A New Hope (1977)
+571,596,Pinocchio (1940)
+572,698,Delta of Venus (1995)
+572,331,Tom & Viv (1994)
+572,535,Short Cuts (1993)
+572,163,Desperado (1995)
+572,707,Mulholland Falls (1996)
+573,700,Angus (1995)
+573,496,What Happened Was... (1994)
+573,276,Milk Money (1994)
+573,70,From Dusk Till Dawn (1996)
+573,674,Barbarella (1968)
+574,703,Boys (1996)
+574,156,Blue in the Face (1995)
+574,279,My Family (1995)
+574,172,Johnny Mnemonic (1995)
+574,534,Shadowlands (1993)
+575,704,"Quest, The (1996)"
+575,631,All Dogs Go to Heaven 2 (1996)
+575,273,Mary Shelley's Frankenstein (Frankenstein) (1994)
+575,438,"Cowboy Way, The (1994)"
+575,289,Only You (1994)
+576,706,Sunset Park (1996)
+576,186,Nine Months (1995)
+576,211,"Browning Version, The (1994)"
+576,16,Casino (1995)
+576,240,Hideaway (1995)
+577,707,Mulholland Falls (1996)
+577,535,Short Cuts (1993)
+577,235,Ed Wood (1994)
+577,423,Blown Away (1994)
+577,698,Delta of Venus (1995)
+578,708,"Truth About Cats & Dogs, The (1996)"
+578,587,Ghost (1990)
+578,93,Vampire in Brooklyn (1995)
+578,679,"Run of the Country, The (1995)"
+578,10,GoldenEye (1995)
+579,709,Oliver & Company (1988)
+579,728,Cold Comfort Farm (1995)
+579,303,"Quick and the Dead, The (1995)"
+579,48,Pocahontas (1995)
+579,345,"Adventures of Priscilla, Queen of the Desert, The (1994)"
+580,710,Celtic Pride (1996)
+580,276,Milk Money (1994)
+580,195,Something to Talk About (1995)
+580,487,Lightning Jack (1994)
+580,496,What Happened Was... (1994)
+581,711,Flipper (1996)
+581,341,Double Happiness (1994)
+581,747,"Stupids, The (1996)"
+581,270,Love Affair (1994)
+581,555,True Romance (1993)
+582,714,Dead Man (1995)
+582,284,New York Cop (Nyû Yôku no koppu) (1993)
+582,332,Village of the Damned (1995)
+582,149,Amateur (1994)
+582,532,Serial Mom (1994)
+583,715,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)"
+583,208,Waterworld (1995)
+583,12,Dracula: Dead and Loving It (1995)
+583,170,Hackers (1995)
+583,551,"Nightmare Before Christmas, The (1993)"
+584,718,"Visitors, The (Visiteurs, Les) (1993)"
+584,205,Unstrung Heroes (1995)
+584,362,"Jungle Book, The (1994)"
+584,152,"Addiction, The (1995)"
+584,594,Snow White and the Seven Dwarfs (1937)
+585,719,Multiplicity (1996)
+585,358,Higher Learning (1995)
+585,662,Fear (1996)
+585,336,"Walking Dead, The (1995)"
+585,17,Sense and Sensibility (1995)
+586,720,Wallace & Gromit: The Best of Aardman Animation (1996)
+586,541,Blade Runner (1982)
+586,674,Barbarella (1968)
+586,69,Friday (1995)
+586,737,Barb Wire (1996)
+587,722,"Haunted World of Edward D. Wood Jr., The (1996)"
+587,63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+587,535,Short Cuts (1993)
+587,184,Nadja (1994)
+587,741,Ghost in the Shell (Kôkaku kidôtai) (1995)
+588,724,"Craft, The (1996)"
+588,594,Snow White and the Seven Dwarfs (1937)
+588,62,Mr. Holland's Opus (1995)
+588,116,Anne Frank Remembered (1995)
+588,434,Cliffhanger (1993)
+589,725,"Great White Hype, The (1996)"
+589,272,"Madness of King George, The (1994)"
+589,41,Richard III (1995)
+589,428,"Bronx Tale, A (1993)"
+589,748,"Arrival, The (1996)"
+590,726,Last Dance (1996)
+590,329,Star Trek: Generations (1994)
+590,547,Surviving the Game (1994)
+590,254,Jefferson in Paris (1995)
+590,369,Mrs. Parker and the Vicious Circle (1994)
+591,728,Cold Comfort Farm (1995)
+591,521,Romeo Is Bleeding (1993)
+591,113,Before and After (1996)
+591,457,"Fugitive, The (1993)"
+591,709,Oliver & Company (1988)
+592,731,Heaven's Prisoners (1996)
+592,105,"Bridges of Madison County, The (1995)"
+592,389,"Colonel Chabert, Le (1994)"
+592,362,"Jungle Book, The (1994)"
+592,553,Tombstone (1993)
+593,733,"Rock, The (1996)"
+593,292,Outbreak (1995)
+593,457,"Fugitive, The (1993)"
+593,496,What Happened Was... (1994)
+593,302,"Queen Margot (Reine Margot, La) (1994)"
+594,735,Cemetery Man (Dellamorte Dellamore) (1994)
+594,731,Heaven's Prisoners (1996)
+594,362,"Jungle Book, The (1994)"
+594,389,"Colonel Chabert, Le (1994)"
+594,510,Poetic Justice (1993)
+595,736,Twister (1996)
+595,307,Three Colors: Blue (Trois couleurs: Bleu) (1993)
+595,107,Muppet Treasure Island (1996)
+595,733,"Rock, The (1996)"
+595,728,Cold Comfort Farm (1995)
+596,737,Barb Wire (1996)
+596,284,New York Cop (Nyû Yôku no koppu) (1993)
+596,69,Friday (1995)
+596,612,"Pallbearer, The (1996)"
+596,70,From Dusk Till Dawn (1996)
+597,741,Ghost in the Shell (Kôkaku kidôtai) (1995)
+597,535,Short Cuts (1993)
+597,235,Ed Wood (1994)
+597,305,Ready to Wear (Pret-A-Porter) (1994)
+597,63,Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)
+598,742,Thinner (1996)
+598,555,True Romance (1993)
+598,342,Muriel's Wedding (1994)
+598,479,Judgment Night (1993)
+598,562,Welcome to the Dollhouse (1995)
+599,743,Spy Hard (1996)
+599,475,In the Name of the Father (1993)
+599,75,Big Bully (1996)
+599,314,"Secret of Roan Inish, The (1994)"
+599,762,Striptease (1996)
+600,745,Wallace & Gromit: A Close Shave (1995)
+600,547,Surviving the Game (1994)
+600,71,Fair Game (1995)
+600,348,Bullets Over Broadway (1994)
+600,158,Casper (1995)
+601,747,"Stupids, The (1996)"
+601,284,New York Cop (Nyû Yôku no koppu) (1993)
+601,711,Flipper (1996)
+601,433,Clean Slate (1994)
+601,270,Love Affair (1994)
+602,748,"Arrival, The (1996)"
+602,510,Poetic Justice (1993)
+602,594,Snow White and the Seven Dwarfs (1937)
+602,472,I'll Do Anything (1994)
+602,428,"Bronx Tale, A (1993)"
+603,750,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964)
+603,741,Ghost in the Shell (Kôkaku kidôtai) (1995)
+603,535,Short Cuts (1993)
+603,315,"Specialist, The (1994)"
+603,184,Nadja (1994)
+604,757,Ashes of Time (Dung che sai duk) (1994)
+604,407,In the Mouth of Madness (1995)
+604,162,Crumb (1994)
+604,43,Restoration (1995)
+604,49,When Night Is Falling (1995)
+605,759,Maya Lin: A Strong Clear Vision (1994)
+605,436,Color of Night (1994)
+605,667,Bloodsport 2 (a.k.a. Bloodsport II: The Next Kumite) (1996)
+605,208,Waterworld (1995)
+605,233,Exotica (1994)
+606,760,Stalingrad (1993)
+606,540,Sliver (1993)
+606,158,Casper (1995)
+606,558,"Pagemaster, The (1994)"
+606,547,Surviving the Game (1994)
+607,761,"Phantom, The (1996)"
+607,695,True Crime (1996)
+607,516,Renaissance Man (1994)
+607,107,Muppet Treasure Island (1996)
+607,188,"Prophecy, The (1995)"
+608,762,Striptease (1996)
+608,487,Lightning Jack (1994)
+608,547,Surviving the Game (1994)
+608,71,Fair Game (1995)
+608,254,Jefferson in Paris (1995)
+609,764,Heavy (1995)
+609,382,Wolf (1994)
+609,434,Cliffhanger (1993)
+609,156,Blue in the Face (1995)
+609,552,"Three Musketeers, The (1993)"
+610,765,Jack (1996)
+610,287,Nina Takes a Lover (1994)
+610,339,While You Were Sleeping (1995)
+610,314,"Secret of Roan Inish, The (1994)"
+610,435,Coneheads (1993)
